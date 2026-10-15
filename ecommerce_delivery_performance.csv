@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,City,Product_Category,Sales_Channel,Payment_Method,Courier,Order_Status,Quantity,Unit_Price_INR,Order_Value_INR,Delivery_Days,Promised_Delivery_Days
+ORD2029,2025-01-01,Patna,Beauty,Mobile App,Wallet,QuickKart,Delivered,1,9255.18,9255.18,5.0,4
+ORD1849,2025-01-01,Indore,Sports,Mobile App,Cash on Delivery,BlueRoute,Delivered,1,11275.41,11275.41,3.0,2
+ORD1756,2025-01-01,Patna,Fashion,Marketplace,UPI,SwiftShip,Delivered,2,14430.85,28861.7,4.0,5
+ORD1992,2025-01-01,Kanpur,Home & Kitchen,Website,Cash on Delivery,QuickKart,Delivered,1,7950.63,7950.63,4.0,3
+ORD1447,2025-01-01,Indore,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,3,7772.27,23316.81,1.0,4
+ORD2165,2025-01-01,Jaipur,Home & Kitchen,Marketplace,Wallet,BlueRoute,Delivered,3,11671.82,35015.46,1.0,2
+ORD1649,2025-01-01,Patna,Books,Mobile App,UPI,BlueRoute,Delayed,1,5208.9,5208.9,2.0,4
+ORD1678,2025-01-01,Nagpur,Books,Website,Debit Card,SwiftShip,Delivered,1,980.82,980.82,3.0,4
+ORD1064,2025-01-02,Nagpur,Beauty,Website,Credit Card,BlueRoute,Delivered,1,12637.7,12637.7,1.0,2
+ORD1207,2025-01-02,Patna,Home & Kitchen,Mobile App,UPI,ParcelPro,Returned,2,9467.27,18934.54,1.0,2
+ORD1264,2025-01-02,Nagpur,Fashion,Mobile App,UPI,SwiftShip,Delivered,2,755.05,1510.1,4.0,3
+ORD1896,2025-01-03,Lucknow,Fashion,Marketplace,UPI,SwiftShip,Delivered,3,1376.9,4130.7,1.0,4
+ORD1969,2025-01-04,Bhopal,Electronics,Marketplace,Wallet,BlueRoute,Delayed,2,13858.37,27716.74,3.0,4
+ORD1949,2025-01-04,Lucknow,Fashion,Website,Debit Card,QuickKart,Delivered,2,2047.81,4095.62,3.0,3
+ORD1326,2025-01-04,Nagpur,Fashion,Website,Debit Card,BlueRoute,Delivered,1,11269.47,11269.47,4.0,2
+ORD1497,2025-01-04,Indore,Fashion,Mobile App,UPI,QuickKart,Delivered,1,14805.06,14805.06,2.0,2
+ORD2045,2025-01-05,Kanpur,Sports,Marketplace,Cash on Delivery,QuickKart,Delivered,1,9432.56,9432.56,1.0,4
+ORD2092,2025-01-05,Jaipur,Home & Kitchen,Mobile App,Cash on Delivery,ParcelPro,Delivered,3,3377.08,10131.24,2.0,2
+ORD1416,2025-01-05,Bhopal,Sports,Marketplace,Wallet,ParcelPro,Cancelled,1,3952.81,3952.81,,2
+ORD1614,2025-01-05,Bhopal,Sports,Website,UPI,QuickKart,Delivered,2,12791.62,25583.24,4.0,5
+ORD1129,2025-01-05,Jaipur,Electronics,Website,Credit Card,BlueRoute,Delivered,1,3523.31,3523.31,1.0,5
+ORD1721,2025-01-05,Jaipur,Electronics,Website,Wallet,BlueRoute,Cancelled,2,13633.71,27267.42,,4
+ORD1843,2025-01-05,Surat,Fashion,Mobile App,Wallet,ParcelPro,Delivered,2,1273.11,2546.22,2.0,5
+ORD1965,2025-01-06,Jaipur,Home & Kitchen,Website,Debit Card,QuickKart,Delivered,2,243.71,487.42,3.0,4
+ORD1335,2025-01-06,Nagpur,Beauty,Mobile App,Cash on Delivery,ParcelPro,Cancelled,1,482.34,482.34,,4
+ORD1742,2025-01-06,Indore,Sports,Website,Debit Card,BlueRoute,Delivered,1,437.64,437.64,6.0,4
+ORD1935,2025-01-06,Jaipur,Fashion,Website,UPI,ParcelPro,Delivered,1,14635.67,14635.67,2.0,5
+ORD1606,2025-01-07,Nagpur,Electronics,Marketplace,Cash on Delivery,SwiftShip,Delivered,1,1716.43,1716.43,4.0,5
+ORD1895,2025-01-07,Indore,Home & Kitchen,Marketplace,Wallet,SwiftShip,Delivered,1,8153.91,8153.91,4.0,4
+ORD1688,2025-01-08,Kanpur,Sports,Marketplace,Cash on Delivery,ParcelPro,Delivered,1,6123.88,6123.88,2.0,4
+ORD1876,2025-01-08,Jaipur,Home & Kitchen,Mobile App,Cash on Delivery,BlueRoute,Delivered,3,14427.46,43282.38,3.0,3
+ORD1829,2025-01-08,Lucknow,Fashion,Mobile App,Cash on Delivery,QuickKart,Delayed,1,4435.63,4435.63,5.0,2
+ORD1098,2025-01-09,Lucknow,Electronics,Website,Cash on Delivery,BlueRoute,Delivered,1,4984.9,4984.9,5.0,4
+ORD1602,2025-01-09,Kanpur,Electronics,Marketplace,UPI,ParcelPro,Delivered,1,7809.56,7809.56,1.0,4
+ORD1270,2025-01-09,Lucknow,Home & Kitchen,Marketplace,Credit Card,SwiftShip,Delivered,1,2745.92,2745.92,3.0,2
+ORD2004,2025-01-10,Indore,Electronics,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,14475.42,28950.84,1.0,5
+ORD1485,2025-01-10,Nagpur,Fashion,Website,Cash on Delivery,ParcelPro,Returned,1,10697.95,10697.95,4.0,4
+ORD2091,2025-01-10,Patna,Electronics,Website,UPI,BlueRoute,Delivered,2,841.28,1682.56,1.0,4
+ORD1715,2025-01-10,Surat,Fashion,Website,Debit Card,BlueRoute,Cancelled,3,9818.29,29454.87,,5
+ORD2123,2025-01-11,Indore,Fashion,Marketplace,Wallet,ParcelPro,Delivered,2,4839.91,9679.82,2.0,5
+ORD1682,2025-01-12,Jaipur,Fashion,Website,Wallet,BlueRoute,Delivered,2,957.12,1914.24,4.0,3
+ORD1519,2025-01-12,Indore,Fashion,Website,Debit Card,QuickKart,Delivered,1,6470.8,6470.8,3.0,3
+ORD1852,2025-01-12,Patna,Fashion,Mobile App,UPI,ParcelPro,Delivered,3,11049.66,33148.98,4.0,3
+ORD1917,2025-01-13,Surat,Fashion,Mobile App,Debit Card,BlueRoute,Delivered,2,3746.69,7493.38,1.0,2
+ORD2008,2025-01-13,Patna,Fashion,Marketplace,Credit Card,QuickKart,Delivered,2,9483.29,18966.58,4.0,3
+ORD1152,2025-01-13,Patna,Electronics,Mobile App,UPI,QuickKart,Delayed,1,12451.45,12451.45,2.0,5
+ORD1379,2025-01-13,Patna,Fashion,Mobile App,Wallet,ParcelPro,Delivered,1,5056.06,5056.06,1.0,3
+ORD1555,2025-01-13,Nagpur,Fashion,Mobile App,UPI,ParcelPro,Delivered,2,12786.46,25572.92,3.0,2
+ORD1886,2025-01-14,Nagpur,Electronics,Website,UPI,BlueRoute,Delivered,1,3269.55,3269.55,1.0,3
+ORD1676,2025-01-14,Kanpur,Books,Marketplace,UPI,QuickKart,Delivered,1,943.78,943.78,1.0,3
+ORD1051,2025-01-14,Patna,Home & Kitchen,Marketplace,Debit Card,BlueRoute,Delivered,1,13054.62,13054.62,4.0,3
+ORD1892,2025-01-14,Patna,Sports,Website,UPI,BlueRoute,Delivered,1,4884.72,4884.72,3.0,5
+ORD2058,2025-01-14,Jaipur,Home & Kitchen,Marketplace,Debit Card,BlueRoute,Delivered,1,4511.49,4511.49,4.0,5
+ORD1135,2025-01-15,Patna,Home & Kitchen,Marketplace,Credit Card,SwiftShip,Delivered,1,8458.03,8458.03,3.0,4
+ORD2104,2025-01-15,Patna,Fashion,Website,Wallet,BlueRoute,Delivered,1,2091.18,2091.18,1.0,5
+ORD2078,2025-01-15,Kanpur,Fashion,Marketplace,UPI,SwiftShip,Delivered,3,14978.54,44935.62,3.0,4
+ORD1904,2025-01-15,Indore,Sports,Website,Cash on Delivery,BlueRoute,Delivered,2,2226.34,4452.68,4.0,3
+ORD1093,2025-01-15,Bhopal,Fashion,Mobile App,UPI,QuickKart,Delivered,1,12796.38,12796.38,4.0,4
+ORD1498,2025-01-16,Indore,Sports,Mobile App,Debit Card,ParcelPro,Delivered,1,5313.58,5313.58,4.0,4
+ORD1330,2025-01-17,Nagpur,Electronics,Website,Cash on Delivery,ParcelPro,Delivered,1,10205.66,10205.66,4.0,2
+ORD2184,2025-01-17,Lucknow,Home & Kitchen,Website,Wallet,ParcelPro,Delivered,1,13383.24,13383.24,4.0,3
+ORD1353,2025-01-18,Lucknow,Beauty,Marketplace,Credit Card,SwiftShip,Delivered,2,13135.26,26270.52,2.0,2
+ORD1567,2025-01-19,Bhopal,Electronics,Mobile App,Cash on Delivery,QuickKart,Delivered,2,11474.97,22949.94,3.0,2
+ORD1637,2025-01-19,Patna,Fashion,Marketplace,Debit Card,ParcelPro,Delayed,1,3045.73,3045.73,4.0,4
+ORD1672,2025-01-20,Surat,Home & Kitchen,Website,Cash on Delivery,ParcelPro,Delivered,1,5873.14,5873.14,4.0,4
+ORD1384,2025-01-20,Indore,Fashion,Mobile App,Wallet,BlueRoute,Cancelled,1,5451.49,5451.49,,2
+ORD1988,2025-01-20,Kanpur,Home & Kitchen,Mobile App,Debit Card,ParcelPro,Delivered,1,13229.24,13229.24,1.0,4
+ORD1045,2025-01-21,Bhopal,Electronics,Mobile App,Credit Card,SwiftShip,Delivered,1,2661.39,2661.39,4.0,3
+ORD1007,2025-01-21,Bhopal,Sports,Website,Wallet,ParcelPro,Delivered,1,12117.66,12117.66,3.0,3
+ORD1026,2025-01-22,Kanpur,Fashion,Website,Credit Card,SwiftShip,Delivered,1,8167.34,8167.34,2.0,3
+ORD1308,2025-01-22,Nagpur,Home & Kitchen,Mobile App,UPI,ParcelPro,Delivered,2,1933.62,3867.24,3.0,2
+ORD1847,2025-01-22,Lucknow,Home & Kitchen,Marketplace,Debit Card,SwiftShip,Delivered,1,9678.15,9678.15,2.0,4
+ORD1748,2025-01-23,Kanpur,Sports,Website,Cash on Delivery,QuickKart,Delivered,1,362.0,362.0,3.0,3
+ORD2063,2025-01-23,Kanpur,Fashion,Mobile App,Credit Card,BlueRoute,Delivered,1,9571.6,9571.6,1.0,5
+ORD2130,2025-01-23,Bhopal,Home & Kitchen,Website,UPI,SwiftShip,Delivered,2,3324.14,6648.28,1.0,5
+ORD1483,2025-01-23,Patna,Beauty,Marketplace,UPI,ParcelPro,Delivered,1,13120.04,13120.04,2.0,3
+ORD2191,2025-01-25,Lucknow,Home & Kitchen,Website,UPI,BlueRoute,Delivered,2,6878.78,13757.56,1.0,2
+ORD2178,2025-01-25,Indore,Electronics,Marketplace,UPI,BlueRoute,Delivered,1,7219.02,7219.02,3.0,5
+ORD1915,2025-01-25,Lucknow,Electronics,Mobile App,Credit Card,ParcelPro,Delivered,2,5100.88,10201.76,3.0,5
+ORD1919,2025-01-25,Surat,Books,Mobile App,Credit Card,QuickKart,Delivered,1,12056.34,12056.34,1.0,3
+ORD1581,2025-01-25,Patna,Sports,Website,Cash on Delivery,QuickKart,Delivered,2,2576.38,5152.76,2.0,5
+ORD1978,2025-01-26,Surat,Books,Mobile App,Credit Card,QuickKart,Delivered,1,9957.06,9957.06,2.0,2
+ORD1376,2025-01-26,Bhopal,Home & Kitchen,Website,Wallet,QuickKart,Delayed,2,8605.02,17210.04,3.0,4
+ORD1873,2025-01-26,Indore,Beauty,Marketplace,Debit Card,BlueRoute,Delivered,3,2287.67,6863.01,3.0,2
+ORD1317,2025-01-27,Jaipur,Home & Kitchen,Mobile App,Credit Card,SwiftShip,Delivered,1,8798.02,8798.02,4.0,5
+ORD1165,2025-01-28,Kanpur,Fashion,Website,Debit Card,SwiftShip,Delivered,3,9592.13,28776.39,1.0,4
+ORD1887,2025-01-28,Jaipur,Home & Kitchen,Mobile App,Wallet,BlueRoute,Delivered,1,7076.4,7076.4,3.0,4
+ORD1697,2025-01-28,Lucknow,Home & Kitchen,Mobile App,UPI,QuickKart,Delivered,3,6745.56,20236.68,1.0,4
+ORD1907,2025-01-28,Indore,Beauty,Marketplace,Credit Card,QuickKart,Delivered,3,6831.93,20495.79,1.0,3
+ORD1110,2025-01-28,Indore,Fashion,Website,Credit Card,QuickKart,Delivered,1,10060.34,10060.34,2.0,3
+ORD1150,2025-01-29,Surat,Sports,Mobile App,Credit Card,QuickKart,Delivered,2,12824.73,25649.46,2.0,4
+ORD2153,2025-01-29,Surat,Home & Kitchen,Marketplace,Credit Card,BlueRoute,Delivered,2,10788.49,21576.98,3.0,2
+ORD1615,2025-01-29,Lucknow,Fashion,Mobile App,Cash on Delivery,QuickKart,Delivered,2,8779.93,17559.86,3.0,4
+ORD1802,2025-01-30,Indore,Beauty,Website,Wallet,BlueRoute,Delivered,1,6981.15,6981.15,5.0,5
+ORD1960,2025-01-31,Indore,Fashion,Marketplace,Wallet,BlueRoute,Delivered,1,10104.0,10104.0,2.0,4
+ORD1508,2025-02-02,Lucknow,Books,Website,Wallet,SwiftShip,Delivered,2,12822.31,25644.62,2.0,4
+ORD1306,2025-02-02,Surat,Fashion,Mobile App,UPI,SwiftShip,Cancelled,1,8440.8,8440.8,,4
+ORD1115,2025-02-02,Patna,Home & Kitchen,Marketplace,Wallet,BlueRoute,Delivered,2,4731.55,9463.1,3.0,4
+ORD1855,2025-02-03,Lucknow,Home & Kitchen,Marketplace,Wallet,SwiftShip,Delivered,1,12630.97,12630.97,3.0,3
+ORD1762,2025-02-03,Indore,Beauty,Mobile App,Credit Card,BlueRoute,Cancelled,2,8951.01,17902.02,,3
+ORD1928,2025-02-03,Bhopal,Electronics,Website,UPI,ParcelPro,Delivered,1,7397.6,7397.6,3.0,4
+ORD1815,2025-02-03,Jaipur,Electronics,Mobile App,Credit Card,BlueRoute,Delivered,1,4945.54,4945.54,3.0,4
+ORD2028,2025-02-04,Bhopal,Electronics,Website,Debit Card,QuickKart,Delivered,3,10372.11,31116.33,5.0,5
+ORD1124,2025-02-04,Patna,Electronics,Marketplace,UPI,QuickKart,Delivered,1,9952.73,9952.73,3.0,4
+ORD1524,2025-02-04,Nagpur,Books,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,6520.15,6520.15,2.0,3
+ORD1327,2025-02-04,Indore,Books,Marketplace,Wallet,ParcelPro,Delayed,1,12137.64,12137.64,1.0,5
+ORD1709,2025-02-04,Bhopal,Sports,Website,Credit Card,QuickKart,Delivered,3,8882.87,26648.61,3.0,5
+ORD1059,2025-02-04,Bhopal,Electronics,Marketplace,UPI,ParcelPro,Delivered,1,2037.46,2037.46,3.0,2
+ORD1151,2025-02-05,Nagpur,Home & Kitchen,Marketplace,Cash on Delivery,QuickKart,Delivered,1,11622.49,11622.49,3.0,5
+ORD1382,2025-02-05,Lucknow,Fashion,Marketplace,Debit Card,ParcelPro,Delivered,2,3513.94,7027.88,2.0,5
+ORD1963,2025-02-05,Lucknow,Books,Marketplace,UPI,ParcelPro,Delivered,3,14933.94,44801.82,2.0,4
+ORD1546,2025-02-05,Nagpur,Electronics,Mobile App,Cash on Delivery,ParcelPro,Delivered,1,8718.85,8718.85,3.0,5
+ORD1338,2025-02-06,Bhopal,Home & Kitchen,Website,Debit Card,QuickKart,Delivered,3,9952.87,29858.61,3.0,4
+ORD1268,2025-02-06,Patna,Home & Kitchen,Marketplace,Credit Card,BlueRoute,Delivered,1,6333.15,6333.15,2.0,3
+ORD1552,2025-02-06,Jaipur,Books,Marketplace,Credit Card,BlueRoute,Delivered,1,7423.14,7423.14,3.0,3
+ORD2127,2025-02-07,Lucknow,Electronics,Website,Cash on Delivery,BlueRoute,Cancelled,1,11037.1,11037.1,,5
+ORD1311,2025-02-07,Patna,Beauty,Marketplace,Wallet,SwiftShip,Delivered,1,13136.73,13136.73,2.0,3
+ORD2018,2025-02-07,Lucknow,Electronics,Marketplace,Cash on Delivery,BlueRoute,Delivered,2,5602.24,11204.48,2.0,2
+ORD2084,2025-02-07,Bhopal,Home & Kitchen,Mobile App,Credit Card,BlueRoute,Delivered,3,2399.35,7198.05,2.0,5
+ORD1996,2025-02-07,Indore,Sports,Marketplace,Wallet,QuickKart,Delivered,2,3362.36,6724.72,4.0,3
+ORD1250,2025-02-08,Patna,Books,Website,Credit Card,SwiftShip,Cancelled,3,8628.19,25884.57,,4
+ORD1586,2025-02-08,Bhopal,Electronics,Mobile App,UPI,BlueRoute,Delivered,1,9378.48,9378.48,2.0,5
+ORD1638,2025-02-08,Jaipur,Electronics,Marketplace,Cash on Delivery,SwiftShip,Delivered,1,7865.63,7865.63,4.0,3
+ORD1766,2025-02-08,Indore,Books,Marketplace,UPI,QuickKart,Delivered,2,5176.36,10352.72,2.0,3
+ORD1477,2025-02-08,Bhopal,Fashion,Marketplace,Debit Card,QuickKart,Delivered,3,11793.13,35379.39,2.0,2
+ORD1373,2025-02-08,Bhopal,Electronics,Mobile App,UPI,BlueRoute,Delivered,2,8803.97,17607.94,5.0,5
+ORD2072,2025-02-08,Indore,Beauty,Marketplace,Credit Card,QuickKart,Delivered,2,13285.27,26570.54,5.0,2
+ORD1909,2025-02-08,Indore,Fashion,Mobile App,Debit Card,QuickKart,Delivered,2,356.95,713.9,3.0,4
+ORD1961,2025-02-09,Bhopal,Electronics,Marketplace,UPI,ParcelPro,Delivered,2,8896.81,17793.62,1.0,3
+ORD1109,2025-02-10,Jaipur,Books,Website,Wallet,BlueRoute,Delivered,1,8711.42,8711.42,1.0,4
+ORD1700,2025-02-10,Lucknow,Books,Marketplace,Credit Card,QuickKart,Delivered,1,2793.95,2793.95,4.0,4
+ORD1091,2025-02-10,Nagpur,Fashion,Mobile App,UPI,SwiftShip,Delivered,1,237.24,237.24,3.0,5
+ORD1933,2025-02-11,Jaipur,Fashion,Marketplace,Credit Card,QuickKart,Delivered,2,13491.23,26982.46,2.0,3
+ORD2052,2025-02-11,Patna,Home & Kitchen,Mobile App,Debit Card,SwiftShip,Delivered,2,4134.25,8268.5,2.0,3
+ORD1137,2025-02-11,Bhopal,Home & Kitchen,Marketplace,Debit Card,ParcelPro,Delivered,1,12630.47,12630.47,4.0,5
+ORD2077,2025-02-11,Jaipur,Fashion,Marketplace,Wallet,QuickKart,Delivered,1,2837.27,2837.27,2.0,4
+ORD1589,2025-02-11,Surat,Sports,Website,Wallet,BlueRoute,Delivered,3,10370.07,31110.21,2.0,2
+ORD1516,2025-02-12,Nagpur,Books,Website,Credit Card,SwiftShip,Delivered,3,3244.76,9734.28,2.0,4
+ORD1821,2025-02-12,Kanpur,Books,Website,Cash on Delivery,QuickKart,Delivered,1,5565.23,5565.23,3.0,2
+ORD1167,2025-02-13,Bhopal,Sports,Website,Wallet,QuickKart,Delayed,3,10710.59,32131.77,2.0,4
+ORD1071,2025-02-13,Surat,Sports,Marketplace,Cash on Delivery,QuickKart,Delivered,1,6840.91,6840.91,2.0,2
+ORD1657,2025-02-13,Bhopal,Books,Website,Cash on Delivery,QuickKart,Delivered,1,9476.13,9476.13,4.0,4
+ORD1517,2025-02-13,Patna,Sports,Marketplace,Cash on Delivery,SwiftShip,Delivered,1,3091.78,3091.78,1.0,2
+ORD1161,2025-02-14,Indore,Fashion,Marketplace,UPI,SwiftShip,Delivered,1,1590.73,1590.73,4.0,2
+ORD1334,2025-02-15,Lucknow,Home & Kitchen,Mobile App,Credit Card,QuickKart,Delivered,2,6323.65,12647.3,3.0,5
+ORD1708,2025-02-15,Kanpur,Electronics,Marketplace,Credit Card,BlueRoute,Delivered,2,11667.94,23335.88,4.0,4
+ORD1854,2025-02-15,Lucknow,Beauty,Mobile App,Wallet,QuickKart,Delivered,1,7439.6,7439.6,3.0,2
+ORD1422,2025-02-16,Lucknow,Home & Kitchen,Website,Cash on Delivery,BlueRoute,Delivered,2,4724.01,9448.02,3.0,2
+ORD1991,2025-02-16,Lucknow,Home & Kitchen,Marketplace,Cash on Delivery,QuickKart,Delivered,2,13584.14,27168.28,2.0,3
+ORD1862,2025-02-16,Patna,Fashion,Website,UPI,BlueRoute,Delivered,3,10398.32,31194.96,1.0,4
+ORD1673,2025-02-16,Indore,Beauty,Mobile App,Cash on Delivery,QuickKart,Delivered,1,5763.37,5763.37,3.0,3
+ORD2109,2025-02-16,Surat,Home & Kitchen,Marketplace,Wallet,BlueRoute,Delivered,2,5903.96,11807.92,3.0,4
+ORD1471,2025-02-16,Nagpur,Home & Kitchen,Website,Credit Card,BlueRoute,Delivered,2,12153.22,24306.44,3.0,5
+ORD1870,2025-02-17,Indore,Sports,Website,Wallet,ParcelPro,Delivered,2,7295.88,14591.76,3.0,4
+ORD1453,2025-02-17,Jaipur,Electronics,Website,Wallet,SwiftShip,Delivered,1,9069.52,9069.52,2.0,3
+ORD1116,2025-02-17,Surat,Sports,Mobile App,Wallet,BlueRoute,Delivered,1,5641.84,5641.84,6.0,5
+ORD1030,2025-02-18,Surat,Electronics,Website,UPI,SwiftShip,Delivered,1,4584.36,4584.36,1.0,3
+ORD1329,2025-02-18,Bhopal,Beauty,Marketplace,UPI,BlueRoute,Delivered,1,278.12,278.12,3.0,2
+ORD1062,2025-02-19,Kanpur,Electronics,Marketplace,Cash on Delivery,ParcelPro,Delivered,1,13101.4,13101.4,5.0,3
+ORD1757,2025-02-20,Nagpur,Home & Kitchen,Marketplace,UPI,SwiftShip,Delivered,2,3445.96,6891.92,1.0,4
+ORD1395,2025-02-20,Kanpur,Books,Marketplace,UPI,ParcelPro,Delivered,3,13051.46,39154.38,3.0,3
+ORD1841,2025-02-20,Nagpur,Home & Kitchen,Website,UPI,QuickKart,Delivered,1,1001.33,1001.33,2.0,2
+ORD1805,2025-02-20,Lucknow,Fashion,Marketplace,Cash on Delivery,ParcelPro,Delivered,1,1872.18,1872.18,4.0,5
+ORD2152,2025-02-20,Kanpur,Beauty,Marketplace,Credit Card,SwiftShip,Delivered,2,14668.58,29337.16,5.0,3
+ORD1314,2025-02-20,Jaipur,Electronics,Marketplace,Credit Card,SwiftShip,Delivered,3,6614.39,19843.17,2.0,5
+ORD1037,2025-02-20,Lucknow,Fashion,Website,Cash on Delivery,BlueRoute,Delivered,1,4363.59,4363.59,2.0,3
+ORD1198,2025-02-21,Kanpur,Sports,Website,Cash on Delivery,ParcelPro,Delivered,1,8815.54,8815.54,4.0,3
+ORD1143,2025-02-21,Jaipur,Fashion,Marketplace,Debit Card,BlueRoute,Delivered,1,9052.73,9052.73,3.0,2
+ORD1576,2025-02-21,Lucknow,Electronics,Website,Debit Card,QuickKart,Delivered,2,3745.76,7491.52,3.0,5
+ORD1817,2025-02-22,Bhopal,Electronics,Website,Cash on Delivery,QuickKart,Delivered,1,7659.24,7659.24,1.0,4
+ORD1055,2025-02-22,Kanpur,Home & Kitchen,Mobile App,Debit Card,ParcelPro,Delivered,1,10484.73,10484.73,3.0,5
+ORD1086,2025-02-22,Surat,Beauty,Marketplace,Debit Card,SwiftShip,Delivered,2,14340.75,28681.5,1.0,2
+ORD1216,2025-02-22,Jaipur,Beauty,Marketplace,UPI,SwiftShip,Delivered,2,5507.99,11015.98,2.0,3
+ORD1413,2025-02-22,Bhopal,Beauty,Website,Cash on Delivery,QuickKart,Delivered,1,9573.49,9573.49,2.0,4
+ORD1749,2025-02-22,Nagpur,Beauty,Marketplace,UPI,QuickKart,Delivered,1,6739.24,6739.24,3.0,2
+ORD1582,2025-02-22,Lucknow,Sports,Mobile App,Credit Card,SwiftShip,Delivered,1,908.13,908.13,2.0,3
+ORD1210,2025-02-23,Nagpur,Home & Kitchen,Mobile App,UPI,QuickKart,Delivered,2,7107.37,14214.74,1.0,3
+ORD1065,2025-02-23,Bhopal,Beauty,Website,Credit Card,BlueRoute,Delivered,2,5690.37,11380.74,3.0,5
+ORD1774,2025-02-23,Jaipur,Home & Kitchen,Mobile App,UPI,SwiftShip,Delivered,1,7568.64,7568.64,2.0,3
+ORD1278,2025-02-23,Indore,Sports,Website,Cash on Delivery,SwiftShip,Delivered,2,10174.49,20348.98,4.0,5
+ORD1410,2025-02-23,Lucknow,Books,Mobile App,Wallet,SwiftShip,Delivered,1,9852.08,9852.08,2.0,4
+ORD1679,2025-02-23,Surat,Electronics,Website,UPI,ParcelPro,Delivered,1,13258.66,13258.66,1.0,4
+ORD1356,2025-02-23,Lucknow,Fashion,Mobile App,UPI,BlueRoute,Delivered,2,2485.48,4970.96,2.0,3
+ORD2167,2025-02-24,Indore,Sports,Marketplace,UPI,ParcelPro,Returned,1,9605.78,9605.78,2.0,4
+ORD1039,2025-02-24,Indore,Books,Website,Debit Card,ParcelPro,Delivered,1,8246.93,8246.93,3.0,5
+ORD1866,2025-02-25,Jaipur,Home & Kitchen,Marketplace,Debit Card,SwiftShip,Delayed,1,14476.42,14476.42,5.0,2
+ORD1884,2025-02-25,Kanpur,Home & Kitchen,Mobile App,Credit Card,SwiftShip,Delayed,1,9538.31,9538.31,1.0,3
+ORD1585,2025-02-26,Bhopal,Electronics,Mobile App,Debit Card,BlueRoute,Delivered,3,12687.43,38062.29,1.0,3
+ORD1645,2025-02-27,Indore,Books,Marketplace,Credit Card,ParcelPro,Delayed,1,7854.63,7854.63,1.0,2
+ORD1437,2025-02-27,Indore,Home & Kitchen,Website,UPI,QuickKart,Delivered,3,2394.73,7184.19,4.0,4
+ORD1445,2025-02-27,Indore,Fashion,Website,Debit Card,BlueRoute,Delivered,1,510.11,510.11,3.0,2
+ORD1403,2025-02-27,Bhopal,Sports,Website,Cash on Delivery,QuickKart,Delivered,1,6286.3,6286.3,4.0,2
+ORD1357,2025-02-27,Nagpur,Beauty,Marketplace,UPI,SwiftShip,Delivered,2,10679.2,21358.4,5.0,3
+ORD1656,2025-02-27,Lucknow,Electronics,Website,UPI,QuickKart,Delivered,2,13110.44,26220.88,5.0,5
+ORD1031,2025-02-28,Kanpur,Books,Marketplace,Debit Card,BlueRoute,Delivered,1,5995.13,5995.13,2.0,5
+ORD1414,2025-03-01,Kanpur,Electronics,Mobile App,Credit Card,BlueRoute,Delivered,1,8290.11,8290.11,4.0,2
+ORD2032,2025-03-01,Lucknow,Home & Kitchen,Mobile App,UPI,BlueRoute,Delivered,1,1950.64,1950.64,1.0,2
+ORD1263,2025-03-01,Jaipur,Fashion,Mobile App,UPI,ParcelPro,Cancelled,2,7007.04,14014.08,,5
+ORD1871,2025-03-02,Kanpur,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,3,8810.61,26431.83,2.0,2
+ORD1839,2025-03-02,Lucknow,Sports,Marketplace,UPI,ParcelPro,Delayed,3,13540.41,40621.23,4.0,5
+ORD2048,2025-03-03,Jaipur,Home & Kitchen,Mobile App,Credit Card,QuickKart,Delivered,2,5525.26,11050.52,3.0,5
+ORD1117,2025-03-03,Nagpur,Fashion,Marketplace,Credit Card,BlueRoute,Delivered,1,2179.3,2179.3,4.0,2
+ORD1562,2025-03-03,Nagpur,Sports,Website,Credit Card,ParcelPro,Delivered,2,4807.45,9614.9,4.0,2
+ORD1974,2025-03-03,Bhopal,Home & Kitchen,Website,Cash on Delivery,QuickKart,Delivered,2,12076.96,24153.92,4.0,4
+ORD1162,2025-03-03,Patna,Fashion,Mobile App,Debit Card,BlueRoute,Delayed,1,2536.73,2536.73,2.0,5
+ORD1102,2025-03-04,Bhopal,Sports,Mobile App,Wallet,QuickKart,Delivered,2,14721.3,29442.6,3.0,4
+ORD1139,2025-03-04,Nagpur,Fashion,Website,Cash on Delivery,QuickKart,Delivered,2,629.26,1258.52,2.0,2
+ORD2198,2025-03-04,Surat,Sports,Marketplace,Cash on Delivery,ParcelPro,Delivered,2,1516.25,3032.5,1.0,3
+ORD2064,2025-03-04,Nagpur,Fashion,Website,Cash on Delivery,QuickKart,Delivered,3,10847.16,32541.48,1.0,2
+ORD2176,2025-03-04,Nagpur,Fashion,Website,Credit Card,SwiftShip,Delivered,2,13344.21,26688.42,2.0,5
+ORD1732,2025-03-04,Jaipur,Home & Kitchen,Marketplace,Debit Card,QuickKart,Delivered,2,8144.52,16289.04,6.0,5
+ORD1398,2025-03-04,Surat,Fashion,Website,Credit Card,SwiftShip,Delivered,2,4898.81,9797.62,1.0,5
+ORD1513,2025-03-06,Patna,Beauty,Website,Cash on Delivery,ParcelPro,Delivered,1,7192.23,7192.23,3.0,2
+ORD1095,2025-03-06,Nagpur,Electronics,Website,UPI,SwiftShip,Delivered,2,3250.56,6501.12,1.0,2
+ORD1724,2025-03-06,Kanpur,Electronics,Website,UPI,ParcelPro,Delivered,3,2336.66,7009.98,2.0,5
+ORD1159,2025-03-07,Indore,Sports,Marketplace,Cash on Delivery,BlueRoute,Cancelled,1,11309.8,11309.8,,5
+ORD1785,2025-03-07,Kanpur,Sports,Website,Cash on Delivery,QuickKart,Delivered,2,9135.29,18270.58,2.0,3
+ORD2075,2025-03-08,Kanpur,Electronics,Mobile App,Cash on Delivery,QuickKart,Delivered,3,10696.6,32089.8,3.0,2
+ORD1921,2025-03-08,Kanpur,Fashion,Marketplace,UPI,SwiftShip,Delivered,1,2740.31,2740.31,1.0,2
+ORD1299,2025-03-09,Bhopal,Sports,Marketplace,Credit Card,SwiftShip,Delivered,1,12248.06,12248.06,2.0,2
+ORD1920,2025-03-09,Surat,Beauty,Mobile App,Cash on Delivery,BlueRoute,Delivered,3,14610.39,43831.17,3.0,2
+ORD1470,2025-03-10,Bhopal,Home & Kitchen,Website,Debit Card,QuickKart,Delivered,1,4769.27,4769.27,5.0,3
+ORD2121,2025-03-10,Surat,Home & Kitchen,Mobile App,Credit Card,SwiftShip,Delivered,2,1288.0,2576.0,4.0,2
+ORD1814,2025-03-10,Nagpur,Beauty,Website,Wallet,BlueRoute,Delivered,1,3017.12,3017.12,4.0,3
+ORD1459,2025-03-10,Bhopal,Beauty,Website,UPI,SwiftShip,Returned,2,11005.57,22011.14,1.0,2
+ORD2022,2025-03-10,Bhopal,Electronics,Marketplace,Credit Card,BlueRoute,Delivered,2,3564.84,7129.68,3.0,3
+ORD1579,2025-03-10,Patna,Fashion,Website,Debit Card,ParcelPro,Delivered,3,9966.9,29900.7,1.0,4
+ORD1947,2025-03-11,Lucknow,Electronics,Mobile App,Wallet,BlueRoute,Delivered,1,6729.2,6729.2,3.0,3
+ORD1628,2025-03-11,Bhopal,Electronics,Mobile App,Credit Card,BlueRoute,Delayed,1,9852.76,9852.76,2.0,4
+ORD1005,2025-03-13,Surat,Fashion,Website,UPI,QuickKart,Delivered,1,574.72,574.72,3.0,2
+ORD1765,2025-03-13,Lucknow,Fashion,Mobile App,UPI,BlueRoute,Cancelled,1,3661.06,3661.06,,2
+ORD1859,2025-03-14,Patna,Beauty,Website,Credit Card,SwiftShip,Cancelled,2,12942.29,25884.58,,4
+ORD1603,2025-03-15,Surat,Books,Website,Credit Card,SwiftShip,Delivered,1,1634.87,1634.87,3.0,3
+ORD1786,2025-03-16,Lucknow,Electronics,Marketplace,Cash on Delivery,QuickKart,Delivered,2,9613.78,19227.56,3.0,2
+ORD2180,2025-03-16,Indore,Beauty,Website,Cash on Delivery,BlueRoute,Delivered,1,10252.89,10252.89,2.0,4
+ORD1968,2025-03-16,Kanpur,Fashion,Mobile App,Wallet,ParcelPro,Delivered,1,10042.78,10042.78,3.0,4
+ORD1536,2025-03-16,Kanpur,Fashion,Mobile App,Wallet,BlueRoute,Delayed,1,5051.68,5051.68,5.0,3
+ORD1282,2025-03-16,Patna,Books,Mobile App,Wallet,BlueRoute,Delivered,2,14660.14,29320.28,4.0,3
+ORD2027,2025-03-17,Patna,Home & Kitchen,Website,Cash on Delivery,BlueRoute,Delivered,1,8331.45,8331.45,4.0,3
+ORD1571,2025-03-17,Bhopal,Fashion,Website,Wallet,SwiftShip,Delivered,1,4686.65,4686.65,4.0,4
+ORD1463,2025-03-17,Jaipur,Sports,Website,Cash on Delivery,QuickKart,Delivered,2,7424.03,14848.06,2.0,2
+ORD1601,2025-03-17,Patna,Fashion,Mobile App,Debit Card,BlueRoute,Delivered,2,9881.46,19762.92,2.0,3
+ORD1856,2025-03-19,Jaipur,Fashion,Mobile App,Wallet,BlueRoute,Returned,2,4706.72,9413.44,3.0,4
+ORD1755,2025-03-19,Bhopal,Home & Kitchen,Website,Wallet,BlueRoute,Delivered,1,11718.42,11718.42,1.0,3
+ORD1888,2025-03-19,Surat,Electronics,Mobile App,Credit Card,SwiftShip,Delivered,2,4576.14,9152.28,4.0,4
+ORD2047,2025-03-19,Patna,Beauty,Mobile App,Cash on Delivery,QuickKart,Delivered,2,3898.98,7797.96,5.0,3
+ORD1664,2025-03-21,Jaipur,Sports,Mobile App,Debit Card,ParcelPro,Delivered,2,10944.71,21889.42,4.0,4
+ORD1104,2025-03-22,Patna,Sports,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,11773.02,23546.04,4.0,3
+ORD1204,2025-03-22,Kanpur,Fashion,Website,Wallet,BlueRoute,Delivered,1,5904.58,5904.58,4.0,5
+ORD1061,2025-03-22,Bhopal,Sports,Marketplace,Credit Card,BlueRoute,Delivered,3,6893.31,20679.93,3.0,3
+ORD1806,2025-03-22,Indore,Electronics,Mobile App,Credit Card,ParcelPro,Delivered,3,14219.14,42657.42,4.0,5
+ORD1711,2025-03-23,Lucknow,Home & Kitchen,Website,Debit Card,BlueRoute,Cancelled,2,8036.1,16072.2,,4
+ORD1752,2025-03-24,Lucknow,Electronics,Mobile App,Wallet,SwiftShip,Delivered,3,1153.61,3460.83,2.0,3
+ORD1932,2025-03-24,Nagpur,Books,Marketplace,UPI,SwiftShip,Delivered,1,3974.29,3974.29,3.0,5
+ORD2011,2025-03-25,Jaipur,Home & Kitchen,Website,Credit Card,QuickKart,Delivered,2,13168.13,26336.26,3.0,2
+ORD1563,2025-03-25,Indore,Sports,Marketplace,UPI,SwiftShip,Delivered,1,2798.95,2798.95,5.0,4
+ORD1754,2025-03-26,Kanpur,Electronics,Website,UPI,ParcelPro,Returned,1,2245.59,2245.59,3.0,2
+ORD2089,2025-03-27,Surat,Beauty,Marketplace,Debit Card,BlueRoute,Delivered,2,13788.26,27576.52,2.0,2
+ORD1466,2025-03-27,Lucknow,Fashion,Mobile App,UPI,ParcelPro,Delivered,2,7517.91,15035.82,2.0,3
+ORD1912,2025-03-27,Bhopal,Home & Kitchen,Marketplace,Cash on Delivery,QuickKart,Delivered,1,1868.39,1868.39,5.0,2
+ORD1157,2025-03-27,Surat,Beauty,Marketplace,Wallet,SwiftShip,Delivered,3,12133.77,36401.31,2.0,4
+ORD1012,2025-03-29,Lucknow,Home & Kitchen,Mobile App,Debit Card,BlueRoute,Delivered,2,6156.74,12313.48,3.0,2
+ORD1049,2025-03-30,Patna,Books,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,13659.96,27319.92,2.0,4
+ORD2050,2025-03-30,Jaipur,Electronics,Website,Credit Card,ParcelPro,Delivered,1,9683.64,9683.64,1.0,5
+ORD2053,2025-03-30,Bhopal,Home & Kitchen,Website,Debit Card,BlueRoute,Delivered,1,8935.63,8935.63,2.0,5
+ORD1454,2025-03-30,Surat,Electronics,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,10226.68,10226.68,4.0,4
+ORD1692,2025-03-31,Lucknow,Home & Kitchen,Website,UPI,SwiftShip,Delivered,1,6776.73,6776.73,3.0,5
+ORD1993,2025-03-31,Bhopal,Electronics,Mobile App,UPI,BlueRoute,Delivered,1,5766.78,5766.78,1.0,2
+ORD1530,2025-03-31,Nagpur,Beauty,Website,Wallet,BlueRoute,Delivered,1,3107.01,3107.01,3.0,2
+ORD2179,2025-03-31,Lucknow,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,3,7034.15,21102.45,1.0,4
+ORD1527,2025-03-31,Patna,Home & Kitchen,Website,Cash on Delivery,BlueRoute,Delivered,2,6389.71,12779.42,3.0,3
+ORD1634,2025-04-01,Jaipur,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,3,8816.11,26448.33,1.0,4
+ORD2150,2025-04-02,Bhopal,Beauty,Website,Cash on Delivery,ParcelPro,Delivered,2,1366.75,2733.5,2.0,5
+ORD1057,2025-04-02,Jaipur,Beauty,Website,Wallet,BlueRoute,Delivered,1,5030.63,5030.63,2.0,2
+ORD1844,2025-04-02,Nagpur,Electronics,Mobile App,Credit Card,ParcelPro,Delivered,1,14205.4,14205.4,3.0,5
+ORD1436,2025-04-02,Kanpur,Electronics,Marketplace,Cash on Delivery,SwiftShip,Delivered,1,1658.19,1658.19,3.0,5
+ORD1389,2025-04-02,Patna,Sports,Marketplace,Credit Card,ParcelPro,Delivered,1,4764.33,4764.33,1.0,4
+ORD1529,2025-04-03,Indore,Fashion,Mobile App,Wallet,ParcelPro,Delivered,2,11695.62,23391.24,2.0,5
+ORD1837,2025-04-03,Lucknow,Sports,Mobile App,Debit Card,ParcelPro,Delivered,2,12535.9,25071.8,3.0,3
+ORD2019,2025-04-04,Indore,Beauty,Mobile App,Credit Card,BlueRoute,Delivered,3,9641.45,28924.35,4.0,3
+ORD1973,2025-04-04,Nagpur,Fashion,Mobile App,Debit Card,BlueRoute,Delivered,2,7166.28,14332.56,3.0,2
+ORD1472,2025-04-04,Lucknow,Electronics,Marketplace,Debit Card,SwiftShip,Delayed,3,1044.33,3132.99,3.0,3
+ORD2020,2025-04-05,Surat,Electronics,Website,Debit Card,SwiftShip,Delivered,1,14624.24,14624.24,5.0,5
+ORD1764,2025-04-05,Indore,Beauty,Marketplace,Credit Card,SwiftShip,Delivered,2,9492.79,18985.58,3.0,3
+ORD2114,2025-04-05,Surat,Electronics,Mobile App,Wallet,SwiftShip,Delivered,1,902.26,902.26,3.0,4
+ORD1828,2025-04-05,Indore,Beauty,Mobile App,Credit Card,BlueRoute,Delivered,3,14808.08,44424.24,2.0,4
+ORD1954,2025-04-05,Bhopal,Beauty,Website,Debit Card,ParcelPro,Delivered,1,7160.5,7160.5,1.0,3
+ORD1520,2025-04-05,Jaipur,Fashion,Marketplace,Debit Card,QuickKart,Delivered,2,11479.18,22958.36,3.0,2
+ORD1343,2025-04-05,Bhopal,Fashion,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,5457.73,10915.46,2.0,2
+ORD1494,2025-04-06,Bhopal,Electronics,Mobile App,UPI,SwiftShip,Delivered,1,5746.41,5746.41,2.0,5
+ORD1144,2025-04-06,Kanpur,Beauty,Website,UPI,QuickKart,Delivered,1,11150.8,11150.8,3.0,3
+ORD1450,2025-04-06,Patna,Home & Kitchen,Mobile App,UPI,SwiftShip,Delivered,1,14065.53,14065.53,4.0,2
+ORD1193,2025-04-06,Indore,Fashion,Mobile App,Credit Card,SwiftShip,Delivered,1,10093.88,10093.88,1.0,4
+ORD1547,2025-04-06,Kanpur,Sports,Marketplace,Credit Card,BlueRoute,Delayed,2,3039.94,6079.88,1.0,3
+ORD1321,2025-04-07,Surat,Electronics,Mobile App,UPI,ParcelPro,Delayed,1,7703.48,7703.48,2.0,3
+ORD1234,2025-04-07,Surat,Beauty,Website,Cash on Delivery,BlueRoute,Delivered,2,11358.54,22717.08,3.0,2
+ORD2085,2025-04-07,Patna,Beauty,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,410.3,820.6,4.0,3
+ORD1738,2025-04-08,Patna,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,2,6384.93,12769.86,3.0,3
+ORD1230,2025-04-08,Jaipur,Beauty,Website,Cash on Delivery,SwiftShip,Delivered,2,10752.08,21504.16,5.0,2
+ORD1793,2025-04-08,Bhopal,Electronics,Website,Credit Card,BlueRoute,Delivered,2,6893.25,13786.5,3.0,2
+ORD1336,2025-04-09,Indore,Books,Website,UPI,BlueRoute,Delivered,1,6146.93,6146.93,4.0,2
+ORD1344,2025-04-09,Patna,Electronics,Mobile App,Wallet,ParcelPro,Delivered,3,7370.16,22110.48,3.0,4
+ORD1740,2025-04-09,Jaipur,Beauty,Website,Debit Card,QuickKart,Delivered,3,5314.28,15942.84,2.0,3
+ORD1272,2025-04-09,Nagpur,Sports,Marketplace,UPI,SwiftShip,Delivered,3,5166.03,15498.09,4.0,5
+ORD1257,2025-04-09,Indore,Home & Kitchen,Website,Credit Card,BlueRoute,Delivered,2,681.75,1363.5,3.0,3
+ORD1580,2025-04-09,Patna,Beauty,Mobile App,Cash on Delivery,QuickKart,Cancelled,1,8344.2,8344.2,,3
+ORD1545,2025-04-09,Patna,Fashion,Website,Cash on Delivery,SwiftShip,Delivered,1,11325.21,11325.21,3.0,3
+ORD1120,2025-04-09,Jaipur,Electronics,Website,Cash on Delivery,SwiftShip,Delivered,2,9844.32,19688.64,5.0,4
+ORD1289,2025-04-09,Kanpur,Fashion,Mobile App,UPI,BlueRoute,Delivered,2,14105.84,28211.68,4.0,3
+ORD1569,2025-04-10,Surat,Fashion,Website,UPI,ParcelPro,Delayed,2,2312.65,4625.3,1.0,2
+ORD1488,2025-04-10,Surat,Books,Mobile App,Wallet,BlueRoute,Delivered,3,5291.56,15874.68,3.0,3
+ORD1013,2025-04-10,Jaipur,Fashion,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,10429.08,20858.16,4.0,5
+ORD1478,2025-04-10,Lucknow,Sports,Website,Debit Card,SwiftShip,Delivered,2,5773.81,11547.62,4.0,4
+ORD2160,2025-04-11,Patna,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,2,14496.63,28993.26,6.0,3
+ORD2014,2025-04-11,Kanpur,Beauty,Marketplace,Wallet,BlueRoute,Delivered,2,9805.39,19610.78,3.0,4
+ORD1411,2025-04-11,Bhopal,Home & Kitchen,Website,Cash on Delivery,QuickKart,Delivered,1,11064.44,11064.44,2.0,3
+ORD1934,2025-04-11,Nagpur,Books,Website,Debit Card,ParcelPro,Delivered,1,12102.71,12102.71,4.0,3
+ORD1202,2025-04-11,Jaipur,Fashion,Mobile App,Credit Card,SwiftShip,Delivered,3,11390.96,34172.88,3.0,4
+ORD1126,2025-04-11,Patna,Electronics,Website,UPI,QuickKart,Delivered,1,4571.58,4571.58,4.0,5
+ORD1510,2025-04-11,Lucknow,Electronics,Marketplace,UPI,BlueRoute,Delivered,1,12422.93,12422.93,4.0,4
+ORD1417,2025-04-13,Patna,Beauty,Marketplace,Cash on Delivery,SwiftShip,Delivered,3,10984.92,32954.76,4.0,3
+ORD1001,2025-04-13,Nagpur,Electronics,Website,UPI,ParcelPro,Delivered,1,14422.84,14422.84,2.0,5
+ORD1787,2025-04-13,Surat,Books,Website,Credit Card,QuickKart,Delivered,2,12970.87,25941.74,3.0,4
+ORD1008,2025-04-13,Kanpur,Fashion,Marketplace,Wallet,SwiftShip,Delayed,1,1464.53,1464.53,3.0,4
+ORD2057,2025-04-14,Surat,Fashion,Mobile App,Wallet,ParcelPro,Delayed,1,11982.55,11982.55,1.0,4
+ORD1369,2025-04-14,Indore,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,1,300.79,300.79,3.0,3
+ORD2070,2025-04-14,Jaipur,Sports,Mobile App,Debit Card,QuickKart,Returned,1,2897.56,2897.56,1.0,2
+ORD2071,2025-04-14,Surat,Electronics,Website,Credit Card,SwiftShip,Delayed,1,6728.78,6728.78,2.0,2
+ORD2137,2025-04-14,Kanpur,Sports,Website,Wallet,QuickKart,Delivered,1,11850.3,11850.3,4.0,4
+ORD2140,2025-04-14,Patna,Fashion,Website,Wallet,SwiftShip,Delayed,2,14678.22,29356.44,2.0,4
+ORD1284,2025-04-14,Indore,Home & Kitchen,Mobile App,Debit Card,BlueRoute,Delivered,2,8333.17,16666.34,1.0,3
+ORD1532,2025-04-15,Lucknow,Beauty,Mobile App,Wallet,QuickKart,Delivered,1,7336.66,7336.66,4.0,4
+ORD1739,2025-04-15,Lucknow,Beauty,Marketplace,Cash on Delivery,QuickKart,Delivered,1,12162.7,12162.7,4.0,2
+ORD1429,2025-04-16,Bhopal,Books,Website,UPI,BlueRoute,Delivered,1,11601.62,11601.62,3.0,2
+ORD1804,2025-04-16,Nagpur,Books,Marketplace,Credit Card,ParcelPro,Delivered,2,7384.37,14768.74,5.0,2
+ORD2149,2025-04-16,Kanpur,Sports,Website,Wallet,SwiftShip,Delivered,1,1724.02,1724.02,2.0,3
+ORD1066,2025-04-16,Jaipur,Home & Kitchen,Marketplace,Credit Card,ParcelPro,Delivered,2,6440.47,12880.94,4.0,3
+ORD1004,2025-04-17,Indore,Home & Kitchen,Marketplace,Credit Card,ParcelPro,Delivered,1,5147.57,5147.57,5.0,4
+ORD1868,2025-04-17,Bhopal,Home & Kitchen,Website,UPI,ParcelPro,Delayed,1,13259.56,13259.56,4.0,4
+ORD1166,2025-04-18,Lucknow,Home & Kitchen,Website,Cash on Delivery,ParcelPro,Delivered,1,1374.22,1374.22,2.0,2
+ORD1415,2025-04-18,Bhopal,Books,Website,UPI,SwiftShip,Delivered,3,10776.84,32330.52,3.0,5
+ORD1587,2025-04-19,Indore,Fashion,Marketplace,Debit Card,QuickKart,Delivered,1,308.4,308.4,1.0,3
+ORD1923,2025-04-19,Jaipur,Beauty,Website,Wallet,SwiftShip,Delivered,3,5728.36,17185.08,2.0,5
+ORD2162,2025-04-20,Jaipur,Books,Website,UPI,ParcelPro,Delayed,1,14397.82,14397.82,3.0,4
+ORD2079,2025-04-21,Surat,Beauty,Mobile App,UPI,ParcelPro,Delivered,1,10365.53,10365.53,3.0,2
+ORD1925,2025-04-21,Surat,Beauty,Marketplace,Debit Card,QuickKart,Delivered,1,4948.84,4948.84,3.0,2
+ORD1823,2025-04-21,Bhopal,Fashion,Website,Wallet,ParcelPro,Delivered,1,2987.1,2987.1,4.0,4
+ORD2139,2025-04-21,Kanpur,Electronics,Website,Wallet,BlueRoute,Delivered,3,13065.42,39196.26,1.0,4
+ORD1897,2025-04-21,Nagpur,Electronics,Marketplace,UPI,QuickKart,Delivered,1,1604.31,1604.31,2.0,5
+ORD1927,2025-04-21,Kanpur,Electronics,Marketplace,Wallet,BlueRoute,Delivered,1,5768.41,5768.41,2.0,4
+ORD1929,2025-04-21,Indore,Fashion,Marketplace,UPI,SwiftShip,Delivered,1,13049.8,13049.8,2.0,5
+ORD1262,2025-04-22,Nagpur,Electronics,Mobile App,UPI,QuickKart,Delivered,1,8987.28,8987.28,2.0,3
+ORD1948,2025-04-22,Nagpur,Sports,Marketplace,UPI,QuickKart,Delivered,2,7043.36,14086.72,4.0,5
+ORD1779,2025-04-22,Indore,Home & Kitchen,Mobile App,UPI,SwiftShip,Delivered,3,12452.29,37356.87,3.0,5
+ORD1288,2025-04-22,Indore,Sports,Website,UPI,SwiftShip,Delivered,2,10575.87,21151.74,1.0,2
+ORD1989,2025-04-23,Bhopal,Electronics,Mobile App,Debit Card,BlueRoute,Delayed,3,8469.84,25409.52,2.0,4
+ORD1206,2025-04-23,Nagpur,Electronics,Marketplace,UPI,ParcelPro,Delivered,2,3677.55,7355.1,4.0,4
+ORD1203,2025-04-23,Nagpur,Books,Website,Wallet,SwiftShip,Delivered,2,4845.71,9691.42,3.0,5
+ORD1196,2025-04-23,Surat,Books,Website,Debit Card,BlueRoute,Delivered,1,10990.77,10990.77,2.0,2
+ORD1877,2025-04-23,Patna,Electronics,Marketplace,Debit Card,BlueRoute,Delivered,1,10756.16,10756.16,4.0,5
+ORD1283,2025-04-23,Lucknow,Books,Marketplace,Credit Card,ParcelPro,Delivered,1,8815.31,8815.31,3.0,4
+ORD1201,2025-04-23,Patna,Sports,Mobile App,Debit Card,ParcelPro,Returned,1,1756.84,1756.84,1.0,3
+ORD1535,2025-04-24,Patna,Sports,Website,Cash on Delivery,BlueRoute,Delivered,1,6655.44,6655.44,2.0,2
+ORD1362,2025-04-24,Nagpur,Fashion,Marketplace,Debit Card,ParcelPro,Delivered,3,1494.72,4484.16,5.0,2
+ORD2115,2025-04-25,Surat,Home & Kitchen,Mobile App,Debit Card,ParcelPro,Delivered,2,9812.08,19624.16,1.0,3
+ORD1531,2025-04-25,Surat,Sports,Website,Credit Card,BlueRoute,Delivered,2,6642.87,13285.74,3.0,3
+ORD1281,2025-04-26,Bhopal,Books,Mobile App,Credit Card,SwiftShip,Delivered,3,11757.74,35273.22,3.0,5
+ORD1346,2025-04-26,Nagpur,Beauty,Mobile App,Debit Card,QuickKart,Delivered,1,3021.74,3021.74,4.0,2
+ORD1178,2025-04-26,Patna,Electronics,Marketplace,UPI,SwiftShip,Delivered,3,9054.69,27164.07,2.0,4
+ORD1440,2025-04-27,Kanpur,Home & Kitchen,Website,Cash on Delivery,BlueRoute,Returned,3,10148.31,30444.93,2.0,2
+ORD2173,2025-04-27,Patna,Electronics,Website,Credit Card,ParcelPro,Delivered,1,3889.76,3889.76,3.0,4
+ORD1654,2025-04-27,Lucknow,Electronics,Website,Cash on Delivery,BlueRoute,Delivered,1,10055.02,10055.02,3.0,2
+ORD1972,2025-04-28,Kanpur,Home & Kitchen,Website,Credit Card,SwiftShip,Delivered,1,8443.3,8443.3,3.0,2
+ORD1983,2025-04-28,Surat,Electronics,Mobile App,Wallet,BlueRoute,Delivered,3,14382.25,43146.75,3.0,4
+ORD1770,2025-04-28,Kanpur,Fashion,Mobile App,Wallet,SwiftShip,Delivered,2,12067.33,24134.66,2.0,4
+ORD1452,2025-04-28,Lucknow,Electronics,Website,Cash on Delivery,QuickKart,Delivered,1,11535.38,11535.38,1.0,2
+ORD2096,2025-04-28,Jaipur,Fashion,Marketplace,UPI,ParcelPro,Delivered,3,2502.99,7508.97,1.0,2
+ORD1906,2025-04-29,Nagpur,Beauty,Website,Credit Card,QuickKart,Returned,1,6187.75,6187.75,1.0,5
+ORD1722,2025-04-29,Surat,Home & Kitchen,Marketplace,Debit Card,SwiftShip,Delivered,3,333.65,1000.95,4.0,4
+ORD1433,2025-04-30,Kanpur,Fashion,Mobile App,UPI,BlueRoute,Delivered,1,6338.42,6338.42,5.0,5
+ORD1279,2025-04-30,Indore,Fashion,Mobile App,Debit Card,SwiftShip,Delivered,2,9394.13,18788.26,4.0,3
+ORD1863,2025-05-01,Patna,Beauty,Website,Wallet,SwiftShip,Delivered,2,13377.95,26755.9,4.0,2
+ORD1177,2025-05-01,Kanpur,Fashion,Website,UPI,QuickKart,Delivered,1,13115.76,13115.76,3.0,2
+ORD1689,2025-05-02,Kanpur,Beauty,Mobile App,Cash on Delivery,ParcelPro,Returned,1,7199.26,7199.26,1.0,3
+ORD1009,2025-05-02,Nagpur,Sports,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,13676.24,13676.24,1.0,4
+ORD1446,2025-05-02,Kanpur,Fashion,Mobile App,Cash on Delivery,ParcelPro,Delivered,2,381.65,763.3,3.0,4
+ORD1840,2025-05-02,Nagpur,Fashion,Mobile App,Credit Card,SwiftShip,Delivered,1,8821.02,8821.02,3.0,2
+ORD1612,2025-05-02,Kanpur,Beauty,Website,UPI,BlueRoute,Delivered,1,2065.43,2065.43,3.0,3
+ORD1592,2025-05-02,Patna,Beauty,Marketplace,Wallet,BlueRoute,Delivered,1,7220.64,7220.64,5.0,2
+ORD1225,2025-05-03,Kanpur,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,2,2313.56,4627.12,2.0,4
+ORD2093,2025-05-03,Surat,Home & Kitchen,Website,Credit Card,ParcelPro,Delivered,3,9212.19,27636.57,2.0,4
+ORD1236,2025-05-04,Lucknow,Beauty,Mobile App,Wallet,SwiftShip,Delivered,1,8247.32,8247.32,3.0,4
+ORD1428,2025-05-04,Lucknow,Home & Kitchen,Marketplace,Debit Card,QuickKart,Cancelled,1,2207.19,2207.19,,4
+ORD1400,2025-05-05,Kanpur,Beauty,Website,Wallet,BlueRoute,Delivered,3,8379.88,25139.64,1.0,2
+ORD2061,2025-05-05,Jaipur,Home & Kitchen,Marketplace,Cash on Delivery,QuickKart,Delivered,2,6862.92,13725.84,2.0,5
+ORD1819,2025-05-06,Bhopal,Electronics,Website,UPI,SwiftShip,Delivered,1,9661.92,9661.92,2.0,5
+ORD1639,2025-05-06,Indore,Beauty,Website,Credit Card,QuickKart,Delayed,1,3647.68,3647.68,3.0,5
+ORD1214,2025-05-06,Nagpur,Electronics,Marketplace,Debit Card,ParcelPro,Delivered,1,4615.84,4615.84,3.0,5
+ORD1451,2025-05-06,Kanpur,Electronics,Mobile App,Debit Card,QuickKart,Returned,2,14243.91,28487.82,2.0,3
+ORD1913,2025-05-06,Bhopal,Beauty,Mobile App,Debit Card,ParcelPro,Delivered,3,2910.33,8730.99,1.0,4
+ORD1644,2025-05-06,Nagpur,Books,Mobile App,UPI,ParcelPro,Delivered,2,4674.46,9348.92,3.0,2
+ORD2148,2025-05-07,Lucknow,Electronics,Mobile App,UPI,QuickKart,Delivered,1,3666.72,3666.72,2.0,5
+ORD1883,2025-05-07,Indore,Fashion,Marketplace,Cash on Delivery,SwiftShip,Delivered,1,9302.35,9302.35,1.0,4
+ORD1443,2025-05-07,Bhopal,Books,Mobile App,Credit Card,SwiftShip,Delivered,1,6728.03,6728.03,2.0,3
+ORD1366,2025-05-07,Patna,Fashion,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,2947.85,5895.7,2.0,5
+ORD2185,2025-05-08,Lucknow,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,1,10930.42,10930.42,3.0,2
+ORD1171,2025-05-08,Patna,Fashion,Marketplace,Debit Card,QuickKart,Delivered,3,12863.91,38591.73,3.0,4
+ORD1352,2025-05-08,Patna,Books,Website,Cash on Delivery,ParcelPro,Delivered,1,10995.06,10995.06,5.0,2
+ORD1305,2025-05-08,Indore,Beauty,Marketplace,Debit Card,QuickKart,Delivered,1,9591.66,9591.66,1.0,3
+ORD1249,2025-05-08,Lucknow,Beauty,Marketplace,Cash on Delivery,QuickKart,Returned,2,8002.04,16004.08,5.0,2
+ORD1100,2025-05-09,Indore,Fashion,Website,Debit Card,BlueRoute,Delivered,1,14912.26,14912.26,4.0,3
+ORD1444,2025-05-09,Surat,Sports,Marketplace,Cash on Delivery,QuickKart,Delivered,1,414.59,414.59,2.0,4
+ORD1253,2025-05-09,Lucknow,Fashion,Website,Wallet,QuickKart,Delivered,1,2606.96,2606.96,5.0,3
+ORD2010,2025-05-10,Kanpur,Books,Website,UPI,SwiftShip,Delivered,2,8845.53,17691.06,3.0,3
+ORD1215,2025-05-10,Nagpur,Fashion,Marketplace,Debit Card,BlueRoute,Cancelled,2,13909.46,27818.92,,2
+ORD1208,2025-05-10,Indore,Sports,Website,Cash on Delivery,SwiftShip,Delivered,2,2389.17,4778.34,2.0,2
+ORD2113,2025-05-10,Kanpur,Books,Marketplace,Debit Card,BlueRoute,Cancelled,2,13777.35,27554.7,,2
+ORD1016,2025-05-11,Nagpur,Sports,Mobile App,Debit Card,QuickKart,Delivered,1,6445.13,6445.13,1.0,3
+ORD1127,2025-05-11,Jaipur,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,2,9301.19,18602.38,4.0,3
+ORD1042,2025-05-11,Surat,Sports,Mobile App,Debit Card,SwiftShip,Delivered,2,293.51,587.02,2.0,5
+ORD1276,2025-05-11,Surat,Books,Website,Cash on Delivery,BlueRoute,Delivered,2,3554.57,7109.14,4.0,4
+ORD2049,2025-05-12,Jaipur,Home & Kitchen,Mobile App,UPI,BlueRoute,Delivered,3,6282.5,18847.5,1.0,2
+ORD1626,2025-05-12,Nagpur,Books,Mobile App,UPI,QuickKart,Delayed,1,9435.88,9435.88,2.0,5
+ORD2145,2025-05-13,Jaipur,Home & Kitchen,Mobile App,UPI,SwiftShip,Delivered,2,11191.41,22382.82,2.0,5
+ORD1745,2025-05-13,Surat,Fashion,Website,Cash on Delivery,QuickKart,Delivered,1,12016.57,12016.57,2.0,5
+ORD1850,2025-05-13,Indore,Beauty,Website,Wallet,ParcelPro,Delivered,2,12861.72,25723.44,3.0,2
+ORD1593,2025-05-13,Jaipur,Home & Kitchen,Website,Cash on Delivery,BlueRoute,Delivered,1,956.25,956.25,3.0,3
+ORD1807,2025-05-13,Lucknow,Electronics,Marketplace,Credit Card,BlueRoute,Delayed,3,7461.28,22383.84,5.0,5
+ORD1981,2025-05-13,Surat,Fashion,Website,Debit Card,QuickKart,Delivered,1,7555.92,7555.92,4.0,5
+ORD1971,2025-05-14,Kanpur,Home & Kitchen,Website,Wallet,QuickKart,Delivered,3,1794.33,5382.99,5.0,4
+ORD2074,2025-05-14,Nagpur,Fashion,Mobile App,UPI,QuickKart,Delivered,2,8870.28,17740.56,1.0,3
+ORD1163,2025-05-14,Indore,Fashion,Marketplace,Wallet,QuickKart,Delivered,3,2281.53,6844.59,2.0,2
+ORD2128,2025-05-14,Patna,Fashion,Marketplace,Credit Card,ParcelPro,Delivered,1,4215.11,4215.11,2.0,2
+ORD1655,2025-05-14,Nagpur,Home & Kitchen,Mobile App,UPI,BlueRoute,Delivered,2,1267.76,2535.52,3.0,5
+ORD1111,2025-05-15,Kanpur,Home & Kitchen,Mobile App,Wallet,BlueRoute,Cancelled,2,11694.51,23389.02,,4
+ORD1044,2025-05-15,Jaipur,Fashion,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,2855.56,5711.12,3.0,2
+ORD1303,2025-05-15,Nagpur,Electronics,Website,Credit Card,QuickKart,Delivered,3,5894.09,17682.27,1.0,4
+ORD1693,2025-05-16,Lucknow,Electronics,Mobile App,Credit Card,ParcelPro,Delivered,1,14472.6,14472.6,1.0,3
+ORD1618,2025-05-16,Indore,Electronics,Marketplace,Debit Card,ParcelPro,Delivered,1,5446.31,5446.31,4.0,4
+ORD2106,2025-05-16,Kanpur,Fashion,Website,Wallet,BlueRoute,Delivered,1,3807.87,3807.87,3.0,4
+ORD1101,2025-05-16,Surat,Beauty,Mobile App,UPI,BlueRoute,Delivered,3,8520.99,25562.97,1.0,5
+ORD2026,2025-05-17,Indore,Electronics,Website,Wallet,SwiftShip,Delivered,1,14319.59,14319.59,2.0,2
+ORD1183,2025-05-17,Surat,Electronics,Mobile App,Cash on Delivery,ParcelPro,Delivered,1,6788.64,6788.64,3.0,4
+ORD1957,2025-05-17,Kanpur,Fashion,Marketplace,UPI,ParcelPro,Delivered,1,6836.58,6836.58,1.0,5
+ORD2170,2025-05-17,Lucknow,Fashion,Website,UPI,BlueRoute,Delivered,1,8076.24,8076.24,3.0,4
+ORD2006,2025-05-18,Patna,Home & Kitchen,Mobile App,Cash on Delivery,QuickKart,Delivered,3,3437.16,10311.48,3.0,2
+ORD1809,2025-05-18,Bhopal,Beauty,Website,UPI,BlueRoute,Delivered,1,14605.24,14605.24,5.0,3
+ORD1998,2025-05-19,Indore,Fashion,Website,Cash on Delivery,ParcelPro,Delivered,3,3651.13,10953.39,3.0,2
+ORD1103,2025-05-19,Indore,Electronics,Mobile App,Credit Card,SwiftShip,Delivered,2,11109.27,22218.54,2.0,3
+ORD1990,2025-05-20,Jaipur,Books,Marketplace,Credit Card,QuickKart,Delivered,1,706.06,706.06,3.0,4
+ORD1267,2025-05-20,Surat,Fashion,Marketplace,Wallet,BlueRoute,Delivered,1,4216.29,4216.29,2.0,4
+ORD2136,2025-05-21,Kanpur,Fashion,Mobile App,Wallet,QuickKart,Delivered,2,14932.64,29865.28,4.0,2
+ORD1608,2025-05-21,Patna,Sports,Marketplace,Wallet,BlueRoute,Delivered,3,1706.81,5120.43,3.0,4
+ORD1641,2025-05-21,Indore,Fashion,Website,Credit Card,BlueRoute,Delivered,2,9475.68,18951.36,1.0,3
+ORD1387,2025-05-22,Surat,Electronics,Marketplace,Wallet,SwiftShip,Delivered,2,11757.27,23514.54,1.0,3
+ORD1994,2025-05-22,Bhopal,Home & Kitchen,Marketplace,Wallet,BlueRoute,Delivered,1,12979.49,12979.49,1.0,3
+ORD2065,2025-05-23,Nagpur,Electronics,Mobile App,Cash on Delivery,QuickKart,Delivered,2,10877.37,21754.74,4.0,5
+ORD1388,2025-05-23,Patna,Electronics,Mobile App,Credit Card,ParcelPro,Delivered,3,1791.69,5375.07,1.0,2
+ORD1148,2025-05-23,Lucknow,Electronics,Website,Cash on Delivery,ParcelPro,Delivered,2,2142.97,4285.94,2.0,2
+ORD1677,2025-05-23,Indore,Beauty,Website,UPI,BlueRoute,Returned,3,7502.5,22507.5,3.0,5
+ORD1584,2025-05-24,Bhopal,Beauty,Mobile App,Debit Card,SwiftShip,Delivered,1,1147.6,1147.6,3.0,3
+ORD1233,2025-05-24,Bhopal,Fashion,Website,Debit Card,SwiftShip,Delivered,2,6363.27,12726.54,3.0,5
+ORD1465,2025-05-24,Jaipur,Fashion,Website,Wallet,QuickKart,Cancelled,2,7179.41,14358.82,,2
+ORD1426,2025-05-24,Indore,Home & Kitchen,Marketplace,Debit Card,QuickKart,Delivered,1,1472.28,1472.28,2.0,4
+ORD1578,2025-05-24,Patna,Home & Kitchen,Website,Wallet,ParcelPro,Cancelled,1,10661.95,10661.95,,4
+ORD1681,2025-05-24,Indore,Electronics,Website,Credit Card,ParcelPro,Delivered,2,1692.94,3385.88,3.0,3
+ORD1260,2025-05-24,Lucknow,Beauty,Website,Debit Card,ParcelPro,Cancelled,2,10842.57,21685.14,,5
+ORD1703,2025-05-25,Bhopal,Sports,Website,Debit Card,ParcelPro,Delivered,3,3297.36,9892.08,3.0,5
+ORD1432,2025-05-25,Bhopal,Fashion,Mobile App,Cash on Delivery,ParcelPro,Delivered,1,9938.91,9938.91,3.0,2
+ORD1753,2025-05-25,Bhopal,Home & Kitchen,Marketplace,Credit Card,BlueRoute,Delivered,1,4450.17,4450.17,4.0,5
+ORD2067,2025-05-25,Surat,Home & Kitchen,Website,Credit Card,ParcelPro,Delivered,2,1656.72,3313.44,3.0,4
+ORD1916,2025-05-25,Kanpur,Home & Kitchen,Marketplace,UPI,SwiftShip,Delivered,2,3363.26,6726.52,1.0,5
+ORD1622,2025-05-25,Lucknow,Fashion,Marketplace,Wallet,QuickKart,Delivered,1,10220.44,10220.44,3.0,5
+ORD1725,2025-05-26,Bhopal,Home & Kitchen,Website,Cash on Delivery,BlueRoute,Delivered,1,11461.89,11461.89,2.0,4
+ORD1924,2025-05-26,Jaipur,Home & Kitchen,Mobile App,UPI,BlueRoute,Delayed,2,10611.22,21222.44,3.0,4
+ORD1599,2025-05-26,Nagpur,Fashion,Website,Credit Card,BlueRoute,Delivered,1,13510.31,13510.31,2.0,5
+ORD1671,2025-05-27,Patna,Fashion,Mobile App,Credit Card,QuickKart,Delivered,3,4191.19,12573.57,4.0,5
+ORD1325,2025-05-27,Indore,Sports,Marketplace,Wallet,BlueRoute,Delivered,2,775.89,1551.78,1.0,5
+ORD1244,2025-05-27,Jaipur,Electronics,Marketplace,Wallet,BlueRoute,Delivered,1,13460.91,13460.91,3.0,2
+ORD1493,2025-05-27,Bhopal,Electronics,Website,UPI,ParcelPro,Delivered,3,11184.93,33554.79,3.0,2
+ORD1431,2025-05-27,Surat,Fashion,Mobile App,Wallet,SwiftShip,Delivered,2,1981.62,3963.24,3.0,3
+ORD1273,2025-05-27,Bhopal,Beauty,Mobile App,UPI,QuickKart,Delivered,2,14215.94,28431.88,1.0,4
+ORD2122,2025-05-28,Patna,Beauty,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,5183.92,5183.92,3.0,5
+ORD1245,2025-05-28,Nagpur,Fashion,Mobile App,Cash on Delivery,ParcelPro,Delivered,2,5943.85,11887.7,1.0,2
+ORD1646,2025-05-28,Bhopal,Books,Website,UPI,QuickKart,Cancelled,1,3831.73,3831.73,,3
+ORD1241,2025-05-28,Kanpur,Home & Kitchen,Website,Debit Card,QuickKart,Delayed,1,548.21,548.21,3.0,2
+ORD1663,2025-05-29,Jaipur,Fashion,Mobile App,UPI,ParcelPro,Delivered,2,8848.06,17696.12,2.0,3
+ORD2168,2025-05-29,Patna,Books,Website,Credit Card,BlueRoute,Delivered,3,6357.55,19072.65,2.0,3
+ORD1017,2025-05-30,Nagpur,Electronics,Marketplace,Debit Card,SwiftShip,Delivered,1,1209.1,1209.1,2.0,5
+ORD1944,2025-05-30,Nagpur,Electronics,Website,Cash on Delivery,ParcelPro,Delivered,1,7801.82,7801.82,3.0,3
+ORD2199,2025-05-30,Jaipur,Sports,Website,Credit Card,QuickKart,Returned,2,5385.96,10771.92,1.0,3
+ORD1401,2025-05-30,Bhopal,Beauty,Website,Cash on Delivery,BlueRoute,Delivered,1,4167.98,4167.98,1.0,5
+ORD1365,2025-05-31,Kanpur,Beauty,Website,Credit Card,QuickKart,Delivered,1,4814.82,4814.82,2.0,4
+ORD1825,2025-05-31,Indore,Home & Kitchen,Marketplace,Wallet,QuickKart,Delivered,2,2691.92,5383.84,3.0,2
+ORD1255,2025-05-31,Kanpur,Electronics,Website,Credit Card,SwiftShip,Delivered,1,3955.55,3955.55,2.0,5
+ORD1583,2025-05-31,Bhopal,Fashion,Mobile App,UPI,ParcelPro,Delivered,1,6780.75,6780.75,3.0,5
+ORD1549,2025-05-31,Bhopal,Electronics,Marketplace,Wallet,ParcelPro,Delivered,2,14932.56,29865.12,1.0,2
+ORD1277,2025-06-01,Bhopal,Beauty,Marketplace,Credit Card,ParcelPro,Delivered,3,10155.0,30465.0,2.0,5
+ORD1015,2025-06-01,Indore,Electronics,Mobile App,Wallet,ParcelPro,Delayed,3,11035.33,33105.99,4.0,2
+ORD1505,2025-06-01,Kanpur,Sports,Marketplace,Debit Card,QuickKart,Delivered,2,4475.73,8951.46,1.0,3
+ORD1190,2025-06-01,Indore,Fashion,Website,Wallet,SwiftShip,Delivered,2,10766.68,21533.36,2.0,5
+ORD2190,2025-06-01,Lucknow,Electronics,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,10758.17,10758.17,3.0,4
+ORD1955,2025-06-01,Indore,Beauty,Website,Wallet,ParcelPro,Delivered,1,8748.39,8748.39,1.0,5
+ORD1548,2025-06-01,Kanpur,Home & Kitchen,Website,UPI,QuickKart,Delivered,1,4653.3,4653.3,4.0,5
+ORD2066,2025-06-02,Nagpur,Sports,Mobile App,UPI,ParcelPro,Delivered,1,8689.07,8689.07,5.0,5
+ORD1396,2025-06-02,Indore,Electronics,Marketplace,Credit Card,QuickKart,Delivered,1,14210.99,14210.99,4.0,2
+ORD1290,2025-06-02,Indore,Home & Kitchen,Website,Cash on Delivery,ParcelPro,Delivered,1,13371.84,13371.84,2.0,2
+ORD1891,2025-06-03,Surat,Fashion,Marketplace,Wallet,QuickKart,Delivered,2,6355.65,12711.3,2.0,5
+ORD2174,2025-06-03,Surat,Sports,Website,Cash on Delivery,ParcelPro,Delivered,1,3637.57,3637.57,3.0,2
+ORD1767,2025-06-03,Surat,Home & Kitchen,Marketplace,Credit Card,QuickKart,Delivered,1,4129.7,4129.7,2.0,4
+ORD2200,2025-06-03,Surat,Sports,Website,Cash on Delivery,QuickKart,Delayed,3,7481.81,22445.43,3.0,5
+ORD1464,2025-06-03,Lucknow,Home & Kitchen,Mobile App,Wallet,SwiftShip,Delivered,1,7543.34,7543.34,2.0,2
+ORD1836,2025-06-04,Jaipur,Electronics,Mobile App,Debit Card,SwiftShip,Delivered,1,2185.2,2185.2,3.0,4
+ORD1367,2025-06-04,Kanpur,Electronics,Marketplace,Credit Card,BlueRoute,Delivered,2,4238.66,8477.32,2.0,4
+ORD1687,2025-06-05,Jaipur,Home & Kitchen,Website,Debit Card,BlueRoute,Delivered,1,9178.4,9178.4,3.0,5
+ORD2108,2025-06-06,Kanpur,Fashion,Marketplace,Debit Card,QuickKart,Delivered,1,11174.72,11174.72,4.0,4
+ORD2105,2025-06-06,Surat,Electronics,Marketplace,Wallet,BlueRoute,Delivered,3,1013.56,3040.68,5.0,3
+ORD2083,2025-06-06,Jaipur,Sports,Website,Wallet,BlueRoute,Delivered,2,12377.74,24755.48,3.0,4
+ORD2080,2025-06-06,Surat,Fashion,Website,UPI,QuickKart,Delivered,2,3141.66,6283.32,1.0,3
+ORD1092,2025-06-06,Patna,Home & Kitchen,Website,Credit Card,QuickKart,Delivered,2,13606.19,27212.38,6.0,5
+ORD1333,2025-06-07,Kanpur,Beauty,Website,Credit Card,SwiftShip,Delayed,1,2675.88,2675.88,5.0,4
+ORD1430,2025-06-07,Nagpur,Books,Website,Credit Card,ParcelPro,Delivered,1,14503.9,14503.9,2.0,5
+ORD1310,2025-06-07,Nagpur,Electronics,Website,Cash on Delivery,BlueRoute,Delivered,2,9499.71,18999.42,3.0,5
+ORD2098,2025-06-08,Jaipur,Fashion,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,2354.31,4708.62,3.0,3
+ORD1219,2025-06-09,Surat,Beauty,Website,Wallet,QuickKart,Delivered,3,561.58,1684.74,3.0,3
+ORD1192,2025-06-09,Kanpur,Fashion,Website,UPI,QuickKart,Delivered,2,1990.17,3980.34,2.0,5
+ORD1153,2025-06-09,Nagpur,Home & Kitchen,Website,Cash on Delivery,SwiftShip,Delivered,1,10931.3,10931.3,2.0,4
+ORD1659,2025-06-09,Nagpur,Fashion,Website,Credit Card,QuickKart,Delivered,1,1667.72,1667.72,2.0,4
+ORD1269,2025-06-09,Lucknow,Sports,Marketplace,Wallet,SwiftShip,Delivered,1,7330.64,7330.64,3.0,4
+ORD1838,2025-06-09,Kanpur,Sports,Marketplace,UPI,BlueRoute,Delivered,1,6188.65,6188.65,3.0,2
+ORD1503,2025-06-09,Nagpur,Electronics,Marketplace,Wallet,QuickKart,Delivered,2,2742.77,5485.54,5.0,5
+ORD2195,2025-06-10,Bhopal,Home & Kitchen,Marketplace,Wallet,ParcelPro,Delivered,1,12344.29,12344.29,4.0,3
+ORD1280,2025-06-10,Jaipur,Fashion,Mobile App,Cash on Delivery,BlueRoute,Delivered,1,10226.61,10226.61,2.0,4
+ORD1298,2025-06-10,Surat,Beauty,Website,Wallet,SwiftShip,Delivered,1,4050.5,4050.5,5.0,3
+ORD2002,2025-06-10,Bhopal,Home & Kitchen,Website,Cash on Delivery,SwiftShip,Delivered,3,2069.28,6207.84,1.0,3
+ORD1349,2025-06-10,Kanpur,Electronics,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,7803.99,7803.99,3.0,2
+ORD1024,2025-06-10,Patna,Electronics,Marketplace,Debit Card,QuickKart,Cancelled,2,7217.37,14434.74,,3
+ORD1769,2025-06-11,Nagpur,Home & Kitchen,Marketplace,Debit Card,QuickKart,Delayed,3,7476.72,22430.16,1.0,4
+ORD1072,2025-06-11,Patna,Beauty,Website,Cash on Delivery,ParcelPro,Delivered,2,741.74,1483.48,3.0,2
+ORD1594,2025-06-12,Jaipur,Fashion,Marketplace,Wallet,SwiftShip,Delivered,2,2171.61,4343.22,1.0,2
+ORD1295,2025-06-12,Nagpur,Fashion,Marketplace,Cash on Delivery,ParcelPro,Delivered,1,5136.38,5136.38,2.0,3
+ORD1507,2025-06-12,Kanpur,Beauty,Website,Cash on Delivery,BlueRoute,Delivered,3,11937.3,35811.9,2.0,4
+ORD1105,2025-06-12,Jaipur,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,1,1496.11,1496.11,3.0,4
+ORD1540,2025-06-13,Kanpur,Beauty,Website,Credit Card,SwiftShip,Delivered,2,3912.18,7824.36,3.0,4
+ORD1669,2025-06-13,Kanpur,Beauty,Marketplace,Wallet,ParcelPro,Delivered,1,3132.31,3132.31,2.0,3
+ORD1691,2025-06-13,Jaipur,Fashion,Website,Debit Card,QuickKart,Delivered,2,9403.66,18807.32,4.0,4
+ORD1750,2025-06-14,Jaipur,Sports,Marketplace,UPI,ParcelPro,Returned,2,6620.54,13241.08,2.0,4
+ORD1616,2025-06-14,Nagpur,Electronics,Marketplace,UPI,QuickKart,Delivered,1,11431.86,11431.86,2.0,5
+ORD1185,2025-06-14,Nagpur,Electronics,Website,UPI,SwiftShip,Delivered,1,13628.23,13628.23,2.0,2
+ORD2044,2025-06-14,Nagpur,Books,Mobile App,Wallet,ParcelPro,Delivered,2,7496.54,14993.08,3.0,5
+ORD1800,2025-06-15,Patna,Electronics,Mobile App,Debit Card,BlueRoute,Delivered,1,3740.03,3740.03,4.0,2
+ORD1047,2025-06-16,Indore,Electronics,Website,Wallet,SwiftShip,Delivered,1,3936.13,3936.13,4.0,4
+ORD1633,2025-06-16,Kanpur,Beauty,Mobile App,Debit Card,QuickKart,Delivered,1,3805.88,3805.88,2.0,3
+ORD1609,2025-06-17,Bhopal,Beauty,Mobile App,Credit Card,BlueRoute,Delivered,3,6682.05,20046.15,3.0,4
+ORD2009,2025-06-17,Patna,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,3,12659.57,37978.71,2.0,5
+ORD1514,2025-06-17,Kanpur,Electronics,Marketplace,Wallet,QuickKart,Delivered,1,1023.96,1023.96,1.0,2
+ORD1297,2025-06-18,Patna,Home & Kitchen,Marketplace,UPI,BlueRoute,Delivered,1,3175.26,3175.26,1.0,4
+ORD1032,2025-06-19,Jaipur,Books,Website,Wallet,QuickKart,Delivered,2,1160.8,2321.6,4.0,5
+ORD1845,2025-06-19,Patna,Home & Kitchen,Website,Credit Card,QuickKart,Delivered,2,7507.97,15015.94,1.0,3
+ORD1374,2025-06-19,Patna,Books,Website,Wallet,SwiftShip,Delivered,2,11742.83,23485.66,3.0,3
+ORD1610,2025-06-19,Patna,Home & Kitchen,Marketplace,UPI,ParcelPro,Delayed,2,2925.88,5851.76,1.0,3
+ORD1407,2025-06-19,Patna,Fashion,Marketplace,Credit Card,BlueRoute,Delivered,2,11735.85,23471.7,4.0,3
+ORD1160,2025-06-19,Bhopal,Home & Kitchen,Marketplace,Debit Card,BlueRoute,Delivered,2,6884.11,13768.22,5.0,4
+ORD2142,2025-06-20,Lucknow,Electronics,Website,Credit Card,BlueRoute,Delivered,1,10864.83,10864.83,3.0,3
+ORD1149,2025-06-20,Patna,Electronics,Mobile App,Credit Card,QuickKart,Delivered,3,736.06,2208.18,2.0,3
+ORD2007,2025-06-21,Kanpur,Beauty,Marketplace,Cash on Delivery,SwiftShip,Delivered,1,739.5,739.5,1.0,5
+ORD1121,2025-06-21,Jaipur,Sports,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,2169.55,4339.1,3.0,2
+ORD1217,2025-06-21,Indore,Sports,Website,Wallet,ParcelPro,Returned,1,12460.35,12460.35,4.0,2
+ORD1189,2025-06-21,Kanpur,Sports,Website,UPI,BlueRoute,Delayed,2,10195.22,20390.44,3.0,4
+ORD1331,2025-06-21,Kanpur,Home & Kitchen,Website,Cash on Delivery,ParcelPro,Delayed,3,5696.99,17090.97,5.0,2
+ORD1979,2025-06-22,Lucknow,Beauty,Marketplace,Debit Card,SwiftShip,Delivered,1,12107.7,12107.7,3.0,2
+ORD1383,2025-06-22,Kanpur,Beauty,Website,Wallet,QuickKart,Delivered,1,9792.89,9792.89,4.0,3
+ORD1758,2025-06-22,Nagpur,Fashion,Website,Debit Card,ParcelPro,Delivered,1,11654.13,11654.13,1.0,3
+ORD2112,2025-06-22,Nagpur,Home & Kitchen,Mobile App,Wallet,QuickKart,Delivered,1,2595.06,2595.06,1.0,3
+ORD1640,2025-06-22,Nagpur,Home & Kitchen,Website,Debit Card,QuickKart,Delivered,2,4021.85,8043.7,4.0,2
+ORD1658,2025-06-22,Patna,Home & Kitchen,Mobile App,Cash on Delivery,QuickKart,Delivered,1,2159.57,2159.57,2.0,3
+ORD1660,2025-06-22,Jaipur,Electronics,Website,Wallet,QuickKart,Delivered,1,13561.45,13561.45,2.0,4
+ORD1360,2025-06-23,Surat,Beauty,Mobile App,Debit Card,ParcelPro,Delayed,1,2766.74,2766.74,4.0,2
+ORD1607,2025-06-23,Nagpur,Beauty,Marketplace,UPI,BlueRoute,Delivered,1,1338.14,1338.14,4.0,3
+ORD1036,2025-06-24,Indore,Sports,Mobile App,UPI,BlueRoute,Delivered,2,13352.47,26704.94,4.0,2
+ORD1307,2025-06-25,Jaipur,Home & Kitchen,Mobile App,Wallet,SwiftShip,Delivered,1,2740.07,2740.07,1.0,3
+ORD1372,2025-06-25,Kanpur,Electronics,Mobile App,UPI,SwiftShip,Delivered,2,8836.35,17672.7,3.0,3
+ORD1728,2025-06-26,Surat,Home & Kitchen,Marketplace,UPI,QuickKart,Delivered,2,5767.19,11534.38,1.0,5
+ORD1737,2025-06-26,Surat,Home & Kitchen,Mobile App,Credit Card,ParcelPro,Delayed,1,6275.86,6275.86,4.0,4
+ORD1568,2025-06-26,Surat,Fashion,Mobile App,Cash on Delivery,ParcelPro,Delayed,1,7412.61,7412.61,4.0,5
+ORD2196,2025-06-26,Bhopal,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,1,14309.85,14309.85,2.0,2
+ORD1544,2025-06-26,Jaipur,Electronics,Marketplace,Wallet,SwiftShip,Delayed,2,2635.07,5270.14,4.0,3
+ORD1696,2025-06-27,Lucknow,Fashion,Mobile App,Debit Card,BlueRoute,Delivered,2,4854.55,9709.1,4.0,2
+ORD1506,2025-06-27,Jaipur,Beauty,Website,Cash on Delivery,QuickKart,Delivered,2,12480.35,24960.7,1.0,3
+ORD2003,2025-06-27,Surat,Fashion,Mobile App,Debit Card,SwiftShip,Delivered,1,2619.61,2619.61,1.0,4
+ORD2076,2025-06-28,Patna,Sports,Marketplace,Debit Card,BlueRoute,Delayed,2,11713.17,23426.34,3.0,4
+ORD1138,2025-06-28,Bhopal,Books,Marketplace,Credit Card,BlueRoute,Delivered,2,10885.65,21771.3,4.0,5
+ORD2060,2025-06-28,Bhopal,Electronics,Marketplace,Cash on Delivery,BlueRoute,Delivered,2,5153.08,10306.16,4.0,2
+ORD2188,2025-06-28,Indore,Fashion,Website,UPI,ParcelPro,Delivered,1,2568.1,2568.1,4.0,2
+ORD1509,2025-06-28,Jaipur,Home & Kitchen,Marketplace,Wallet,ParcelPro,Delivered,3,5846.92,17540.76,2.0,4
+ORD2192,2025-06-29,Jaipur,Books,Mobile App,Credit Card,BlueRoute,Delivered,1,12485.71,12485.71,1.0,2
+ORD1936,2025-06-29,Patna,Fashion,Mobile App,Credit Card,BlueRoute,Delivered,2,10599.53,21199.06,5.0,2
+ORD1490,2025-06-29,Nagpur,Fashion,Website,Debit Card,BlueRoute,Delivered,1,13445.84,13445.84,1.0,3
+ORD1880,2025-06-29,Patna,Electronics,Website,UPI,SwiftShip,Delivered,1,12814.97,12814.97,4.0,2
+ORD1195,2025-06-29,Indore,Home & Kitchen,Website,Credit Card,ParcelPro,Delivered,1,372.26,372.26,1.0,2
+ORD1406,2025-06-29,Patna,Books,Website,Wallet,QuickKart,Delivered,2,6806.34,13612.68,4.0,3
+ORD1588,2025-06-30,Lucknow,Sports,Website,Wallet,QuickKart,Delivered,3,5507.19,16521.57,3.0,5
+ORD1342,2025-06-30,Nagpur,Home & Kitchen,Mobile App,Wallet,ParcelPro,Delivered,2,4318.85,8637.7,3.0,5
+ORD2189,2025-07-01,Jaipur,Electronics,Mobile App,Debit Card,QuickKart,Delivered,2,11935.52,23871.04,3.0,4
+ORD2163,2025-07-01,Nagpur,Beauty,Website,Debit Card,QuickKart,Delivered,2,14898.75,29797.5,2.0,3
+ORD1632,2025-07-01,Nagpur,Fashion,Website,UPI,BlueRoute,Delayed,1,12347.57,12347.57,2.0,2
+ORD1826,2025-07-02,Patna,Electronics,Marketplace,Credit Card,SwiftShip,Delivered,2,12862.53,25725.06,4.0,4
+ORD1554,2025-07-02,Surat,Electronics,Marketplace,Cash on Delivery,SwiftShip,Returned,1,894.49,894.49,4.0,5
+ORD1224,2025-07-03,Patna,Home & Kitchen,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,10301.73,20603.46,2.0,3
+ORD1810,2025-07-03,Lucknow,Home & Kitchen,Marketplace,Cash on Delivery,SwiftShip,Cancelled,1,8510.45,8510.45,,2
+ORD2103,2025-07-03,Indore,Fashion,Marketplace,Cash on Delivery,QuickKart,Delivered,2,6198.98,12397.96,2.0,5
+ORD1831,2025-07-03,Bhopal,Home & Kitchen,Marketplace,UPI,BlueRoute,Delivered,3,7664.49,22993.47,3.0,4
+ORD1467,2025-07-04,Nagpur,Fashion,Website,Credit Card,ParcelPro,Delivered,1,9251.37,9251.37,1.0,3
+ORD1397,2025-07-05,Nagpur,Home & Kitchen,Marketplace,Cash on Delivery,QuickKart,Delivered,3,8253.14,24759.42,4.0,4
+ORD1590,2025-07-05,Bhopal,Fashion,Marketplace,Debit Card,ParcelPro,Delivered,1,11539.43,11539.43,2.0,4
+ORD1694,2025-07-05,Indore,Fashion,Mobile App,Wallet,BlueRoute,Delivered,1,9540.58,9540.58,4.0,3
+ORD1237,2025-07-06,Patna,Fashion,Website,Cash on Delivery,BlueRoute,Delivered,1,2039.65,2039.65,2.0,4
+ORD1205,2025-07-06,Nagpur,Home & Kitchen,Website,Debit Card,QuickKart,Delivered,3,3853.23,11559.69,2.0,3
+ORD1893,2025-07-06,Indore,Fashion,Website,Debit Card,BlueRoute,Delivered,3,7347.58,22042.74,1.0,4
+ORD1155,2025-07-06,Nagpur,Home & Kitchen,Mobile App,Credit Card,BlueRoute,Delivered,2,10896.65,21793.3,3.0,2
+ORD1566,2025-07-06,Lucknow,Electronics,Mobile App,Debit Card,SwiftShip,Delivered,1,2993.15,2993.15,2.0,5
+ORD1345,2025-07-07,Jaipur,Home & Kitchen,Mobile App,UPI,ParcelPro,Delivered,3,4812.01,14436.03,2.0,4
+ORD1033,2025-07-07,Surat,Sports,Marketplace,UPI,ParcelPro,Delivered,1,5883.54,5883.54,3.0,3
+ORD1090,2025-07-07,Kanpur,Electronics,Mobile App,UPI,QuickKart,Delivered,1,2940.38,2940.38,3.0,5
+ORD1457,2025-07-08,Bhopal,Beauty,Mobile App,Debit Card,SwiftShip,Delivered,1,12521.65,12521.65,3.0,2
+ORD1006,2025-07-08,Patna,Fashion,Website,Debit Card,ParcelPro,Delivered,2,9005.72,18011.44,2.0,2
+ORD1399,2025-07-09,Bhopal,Electronics,Website,Wallet,SwiftShip,Delivered,2,4451.44,8902.88,2.0,4
+ORD1080,2025-07-09,Bhopal,Electronics,Website,Wallet,SwiftShip,Delivered,3,4907.05,14721.15,1.0,2
+ORD1651,2025-07-09,Indore,Electronics,Marketplace,Cash on Delivery,QuickKart,Cancelled,3,7898.43,23695.29,,3
+ORD1174,2025-07-09,Indore,Home & Kitchen,Mobile App,Debit Card,SwiftShip,Delivered,3,7012.3,21036.9,4.0,5
+ORD1035,2025-07-09,Patna,Electronics,Mobile App,Debit Card,SwiftShip,Delivered,2,3511.5,7023.0,6.0,3
+ORD1550,2025-07-09,Patna,Electronics,Mobile App,UPI,SwiftShip,Delivered,2,12610.41,25220.82,2.0,4
+ORD1652,2025-07-10,Jaipur,Sports,Website,Debit Card,SwiftShip,Delivered,3,14528.49,43585.47,4.0,2
+ORD1347,2025-07-10,Lucknow,Books,Mobile App,Wallet,SwiftShip,Delayed,2,14842.88,29685.76,2.0,4
+ORD1069,2025-07-10,Surat,Fashion,Mobile App,Debit Card,SwiftShip,Delivered,1,10005.79,10005.79,3.0,2
+ORD1702,2025-07-11,Nagpur,Fashion,Marketplace,UPI,QuickKart,Delivered,2,5479.2,10958.4,2.0,4
+ORD1788,2025-07-11,Lucknow,Books,Marketplace,Wallet,SwiftShip,Delivered,1,11969.26,11969.26,1.0,2
+ORD1905,2025-07-11,Jaipur,Home & Kitchen,Website,Credit Card,QuickKart,Delivered,1,9484.47,9484.47,2.0,3
+ORD1458,2025-07-11,Indore,Electronics,Mobile App,Cash on Delivery,QuickKart,Delivered,3,6159.54,18478.62,3.0,4
+ORD1022,2025-07-11,Nagpur,Beauty,Marketplace,Debit Card,SwiftShip,Delivered,3,14711.54,44134.62,2.0,3
+ORD1328,2025-07-11,Indore,Sports,Mobile App,Credit Card,BlueRoute,Delivered,2,9883.26,19766.52,2.0,4
+ORD1542,2025-07-11,Lucknow,Fashion,Website,UPI,ParcelPro,Cancelled,1,8555.67,8555.67,,2
+ORD1613,2025-07-13,Lucknow,Sports,Mobile App,Credit Card,BlueRoute,Delivered,1,2923.7,2923.7,5.0,3
+ORD1293,2025-07-13,Indore,Fashion,Marketplace,Wallet,QuickKart,Delivered,1,10157.5,10157.5,3.0,4
+ORD1975,2025-07-13,Nagpur,Books,Marketplace,Wallet,ParcelPro,Delivered,3,1174.23,3522.69,1.0,5
+ORD1304,2025-07-14,Bhopal,Home & Kitchen,Mobile App,Debit Card,SwiftShip,Delivered,3,8211.27,24633.81,2.0,3
+ORD1835,2025-07-14,Patna,Electronics,Website,Cash on Delivery,SwiftShip,Delivered,1,540.1,540.1,3.0,2
+ORD1833,2025-07-14,Bhopal,Home & Kitchen,Mobile App,Cash on Delivery,QuickKart,Delivered,1,1470.47,1470.47,2.0,2
+ORD1533,2025-07-15,Nagpur,Beauty,Marketplace,UPI,ParcelPro,Delivered,2,8822.75,17645.5,2.0,2
+ORD2088,2025-07-15,Surat,Fashion,Mobile App,Wallet,ParcelPro,Delayed,2,4378.48,8756.96,2.0,2
+ORD1418,2025-07-15,Surat,Books,Marketplace,Debit Card,QuickKart,Delayed,1,4909.28,4909.28,1.0,4
+ORD1713,2025-07-16,Indore,Beauty,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,14731.08,14731.08,4.0,4
+ORD1743,2025-07-16,Jaipur,Electronics,Mobile App,Debit Card,QuickKart,Delivered,3,6344.87,19034.61,1.0,3
+ORD1946,2025-07-17,Indore,Sports,Marketplace,Debit Card,BlueRoute,Delivered,1,13029.73,13029.73,4.0,4
+ORD1231,2025-07-17,Bhopal,Electronics,Website,Wallet,BlueRoute,Delivered,3,4179.73,12539.19,6.0,2
+ORD1182,2025-07-17,Patna,Beauty,Marketplace,Credit Card,SwiftShip,Delivered,2,7072.61,14145.22,3.0,4
+ORD2193,2025-07-17,Lucknow,Fashion,Mobile App,Debit Card,QuickKart,Delivered,1,1812.2,1812.2,2.0,4
+ORD2073,2025-07-17,Indore,Fashion,Marketplace,UPI,BlueRoute,Delivered,1,5003.99,5003.99,1.0,4
+ORD1220,2025-07-17,Nagpur,Beauty,Website,Credit Card,QuickKart,Cancelled,1,13059.37,13059.37,,3
+ORD1247,2025-07-18,Lucknow,Electronics,Mobile App,Credit Card,SwiftShip,Cancelled,1,11463.11,11463.11,,3
+ORD2129,2025-07-19,Kanpur,Home & Kitchen,Website,UPI,QuickKart,Delivered,2,9306.93,18613.86,1.0,3
+ORD1235,2025-07-20,Bhopal,Beauty,Marketplace,Debit Card,SwiftShip,Cancelled,2,6046.94,12093.88,,5
+ORD1704,2025-07-20,Kanpur,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,1,14878.11,14878.11,4.0,4
+ORD1112,2025-07-20,Surat,Electronics,Marketplace,Debit Card,ParcelPro,Delivered,1,9368.9,9368.9,1.0,5
+ORD2171,2025-07-21,Bhopal,Electronics,Website,Debit Card,SwiftShip,Delivered,2,8214.61,16429.22,4.0,3
+ORD1908,2025-07-21,Surat,Sports,Mobile App,Wallet,ParcelPro,Delivered,2,3250.72,6501.44,3.0,4
+ORD1073,2025-07-21,Lucknow,Home & Kitchen,Mobile App,Credit Card,BlueRoute,Delivered,2,12989.4,25978.8,5.0,5
+ORD1635,2025-07-21,Patna,Home & Kitchen,Mobile App,Wallet,BlueRoute,Delivered,1,5975.37,5975.37,1.0,3
+ORD1751,2025-07-21,Jaipur,Beauty,Website,Cash on Delivery,ParcelPro,Delivered,1,8891.75,8891.75,2.0,3
+ORD1666,2025-07-22,Lucknow,Fashion,Marketplace,UPI,BlueRoute,Delivered,1,8251.81,8251.81,3.0,5
+ORD1223,2025-07-22,Surat,Home & Kitchen,Marketplace,Credit Card,SwiftShip,Cancelled,2,3375.5,6751.0,,4
+ORD1977,2025-07-22,Nagpur,Books,Mobile App,Debit Card,BlueRoute,Delivered,1,14298.1,14298.1,1.0,4
+ORD1474,2025-07-23,Patna,Electronics,Marketplace,Wallet,BlueRoute,Delivered,2,14030.25,28060.5,2.0,3
+ORD1759,2025-07-24,Lucknow,Sports,Marketplace,Credit Card,BlueRoute,Delivered,1,3685.38,3685.38,3.0,3
+ORD1818,2025-07-24,Patna,Beauty,Mobile App,Debit Card,BlueRoute,Delivered,1,7492.16,7492.16,3.0,5
+ORD1574,2025-07-25,Patna,Sports,Website,UPI,QuickKart,Delivered,3,2111.51,6334.53,2.0,3
+ORD1060,2025-07-25,Patna,Beauty,Marketplace,Debit Card,ParcelPro,Cancelled,2,12064.58,24129.16,,3
+ORD1881,2025-07-26,Nagpur,Fashion,Marketplace,Wallet,QuickKart,Delivered,2,9132.0,18264.0,1.0,2
+ORD1782,2025-07-26,Lucknow,Sports,Marketplace,UPI,ParcelPro,Delivered,1,6000.57,6000.57,4.0,2
+ORD1134,2025-07-26,Lucknow,Beauty,Marketplace,Cash on Delivery,BlueRoute,Delivered,3,8561.33,25683.99,3.0,2
+ORD1296,2025-07-27,Patna,Sports,Mobile App,Credit Card,QuickKart,Delivered,2,2335.94,4671.88,4.0,4
+ORD1083,2025-07-27,Lucknow,Fashion,Marketplace,Cash on Delivery,SwiftShip,Delivered,2,5829.21,11658.42,5.0,5
+ORD1275,2025-07-27,Nagpur,Home & Kitchen,Mobile App,Wallet,ParcelPro,Delivered,1,8106.5,8106.5,1.0,2
+ORD2138,2025-07-29,Patna,Sports,Mobile App,Credit Card,SwiftShip,Delivered,1,7654.85,7654.85,2.0,4
+ORD2182,2025-07-29,Nagpur,Beauty,Marketplace,Debit Card,ParcelPro,Delivered,1,3822.63,3822.63,4.0,3
+ORD1986,2025-07-31,Patna,Fashion,Website,UPI,BlueRoute,Delivered,2,8390.66,16781.32,4.0,2
+ORD1918,2025-07-31,Indore,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,2,11272.86,22545.72,2.0,4
+ORD1705,2025-07-31,Patna,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,9578.56,9578.56,2.0,3
+ORD1082,2025-08-01,Lucknow,Beauty,Mobile App,UPI,BlueRoute,Delivered,2,12302.95,24605.9,2.0,5
+ORD2043,2025-08-01,Bhopal,Sports,Mobile App,Credit Card,ParcelPro,Delayed,3,5796.31,17388.93,4.0,4
+ORD1665,2025-08-01,Jaipur,Home & Kitchen,Website,Wallet,BlueRoute,Delivered,2,14678.3,29356.6,2.0,5
+ORD1885,2025-08-02,Indore,Home & Kitchen,Mobile App,Cash on Delivery,QuickKart,Delivered,1,2925.45,2925.45,1.0,5
+ORD1123,2025-08-02,Surat,Fashion,Website,Wallet,QuickKart,Delivered,1,1185.45,1185.45,1.0,5
+ORD1864,2025-08-02,Lucknow,Beauty,Mobile App,UPI,SwiftShip,Delivered,2,4624.39,9248.78,3.0,3
+ORD2156,2025-08-02,Surat,Fashion,Website,Credit Card,BlueRoute,Delivered,3,1377.7,4133.1,4.0,4
+ORD1393,2025-08-03,Nagpur,Electronics,Marketplace,UPI,ParcelPro,Delivered,1,11997.72,11997.72,4.0,3
+ORD1078,2025-08-03,Kanpur,Beauty,Mobile App,UPI,SwiftShip,Cancelled,1,458.24,458.24,,3
+ORD1595,2025-08-03,Surat,Fashion,Website,UPI,SwiftShip,Delivered,1,13515.2,13515.2,1.0,2
+ORD1010,2025-08-03,Nagpur,Sports,Marketplace,Cash on Delivery,QuickKart,Delivered,3,5567.82,16703.46,4.0,2
+ORD1525,2025-08-03,Surat,Home & Kitchen,Mobile App,UPI,BlueRoute,Delivered,1,10066.63,10066.63,1.0,5
+ORD1889,2025-08-04,Nagpur,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,1,3109.99,3109.99,2.0,4
+ORD2102,2025-08-04,Jaipur,Electronics,Mobile App,UPI,BlueRoute,Delivered,2,5825.22,11650.44,4.0,3
+ORD1118,2025-08-04,Nagpur,Electronics,Website,Credit Card,SwiftShip,Delivered,2,12546.69,25093.38,2.0,2
+ORD1088,2025-08-05,Bhopal,Electronics,Marketplace,Credit Card,ParcelPro,Delivered,2,10116.42,20232.84,2.0,2
+ORD1733,2025-08-05,Nagpur,Beauty,Mobile App,Debit Card,ParcelPro,Delivered,1,1706.34,1706.34,2.0,2
+ORD1564,2025-08-05,Bhopal,Electronics,Mobile App,UPI,QuickKart,Delivered,1,5275.8,5275.8,3.0,3
+ORD1624,2025-08-05,Kanpur,Books,Marketplace,Debit Card,SwiftShip,Delivered,1,12017.63,12017.63,2.0,4
+ORD1557,2025-08-05,Kanpur,Home & Kitchen,Marketplace,Credit Card,BlueRoute,Delivered,1,6118.75,6118.75,3.0,3
+ORD1537,2025-08-05,Bhopal,Home & Kitchen,Mobile App,Wallet,ParcelPro,Delivered,3,376.64,1129.92,5.0,5
+ORD1475,2025-08-06,Lucknow,Beauty,Marketplace,Cash on Delivery,BlueRoute,Delivered,2,6023.62,12047.24,3.0,2
+ORD1857,2025-08-06,Kanpur,Fashion,Mobile App,Debit Card,ParcelPro,Delivered,1,12744.08,12744.08,3.0,2
+ORD2135,2025-08-06,Surat,Beauty,Website,Credit Card,QuickKart,Delivered,1,14702.79,14702.79,3.0,2
+ORD1130,2025-08-06,Surat,Books,Website,Debit Card,SwiftShip,Delayed,2,3121.56,6243.12,1.0,3
+ORD1218,2025-08-06,Nagpur,Beauty,Mobile App,UPI,ParcelPro,Delivered,1,11537.52,11537.52,3.0,5
+ORD1070,2025-08-06,Kanpur,Beauty,Marketplace,Debit Card,ParcelPro,Delivered,2,2135.93,4271.86,2.0,2
+ORD1332,2025-08-08,Surat,Home & Kitchen,Marketplace,Wallet,ParcelPro,Delivered,2,14109.99,28219.98,4.0,3
+ORD1469,2025-08-08,Lucknow,Electronics,Website,UPI,QuickKart,Delivered,1,11634.53,11634.53,3.0,5
+ORD1967,2025-08-08,Nagpur,Fashion,Website,Debit Card,SwiftShip,Delayed,1,14673.3,14673.3,3.0,4
+ORD1643,2025-08-08,Surat,Fashion,Marketplace,Credit Card,ParcelPro,Delivered,3,7404.06,22212.18,3.0,4
+ORD1698,2025-08-08,Lucknow,Fashion,Mobile App,UPI,BlueRoute,Delivered,3,4154.43,12463.29,4.0,2
+ORD1209,2025-08-08,Kanpur,Books,Mobile App,Debit Card,SwiftShip,Cancelled,2,9065.98,18131.96,,3
+ORD1706,2025-08-08,Lucknow,Sports,Website,Debit Card,QuickKart,Delivered,3,3210.96,9632.88,1.0,5
+ORD1596,2025-08-09,Surat,Home & Kitchen,Website,Wallet,BlueRoute,Delivered,2,707.78,1415.56,5.0,3
+ORD1776,2025-08-10,Patna,Home & Kitchen,Marketplace,Wallet,BlueRoute,Delivered,2,12326.09,24652.18,2.0,5
+ORD1481,2025-08-10,Indore,Home & Kitchen,Mobile App,Debit Card,ParcelPro,Delivered,2,12074.46,24148.92,3.0,5
+ORD1145,2025-08-10,Jaipur,Home & Kitchen,Marketplace,Wallet,SwiftShip,Delivered,2,10562.73,21125.46,5.0,3
+ORD1575,2025-08-11,Patna,Fashion,Marketplace,Debit Card,QuickKart,Delivered,1,1539.28,1539.28,2.0,3
+ORD1491,2025-08-11,Jaipur,Fashion,Website,Wallet,SwiftShip,Delivered,2,7789.55,15579.1,4.0,4
+ORD1591,2025-08-11,Jaipur,Fashion,Website,UPI,BlueRoute,Returned,2,10454.22,20908.44,4.0,5
+ORD1964,2025-08-11,Patna,Electronics,Mobile App,Credit Card,SwiftShip,Delivered,2,13634.67,27269.34,1.0,4
+ORD1355,2025-08-11,Jaipur,Electronics,Marketplace,Wallet,ParcelPro,Delivered,1,791.87,791.87,2.0,3
+ORD1212,2025-08-12,Kanpur,Home & Kitchen,Website,Debit Card,BlueRoute,Delivered,1,13796.27,13796.27,3.0,4
+ORD1684,2025-08-12,Kanpur,Sports,Website,Credit Card,BlueRoute,Delivered,3,5812.39,17437.17,1.0,4
+ORD1726,2025-08-12,Nagpur,Books,Website,Cash on Delivery,BlueRoute,Delivered,2,2919.43,5838.86,4.0,4
+ORD1551,2025-08-12,Jaipur,Electronics,Marketplace,Wallet,QuickKart,Delivered,1,1482.26,1482.26,4.0,3
+ORD1186,2025-08-13,Surat,Home & Kitchen,Website,UPI,SwiftShip,Delivered,2,7218.47,14436.94,1.0,2
+ORD1987,2025-08-13,Bhopal,Beauty,Website,Cash on Delivery,SwiftShip,Delivered,2,6307.82,12615.64,3.0,3
+ORD1175,2025-08-13,Kanpur,Fashion,Mobile App,UPI,ParcelPro,Delivered,2,465.4,930.8,2.0,3
+ORD2068,2025-08-13,Surat,Home & Kitchen,Marketplace,UPI,BlueRoute,Delivered,1,4175.77,4175.77,1.0,2
+ORD1213,2025-08-13,Indore,Sports,Marketplace,UPI,QuickKart,Delivered,1,9110.33,9110.33,4.0,4
+ORD1790,2025-08-14,Patna,Books,Marketplace,Debit Card,QuickKart,Delivered,2,6660.41,13320.82,2.0,2
+ORD1318,2025-08-14,Indore,Beauty,Website,Cash on Delivery,QuickKart,Delivered,2,11184.35,22368.7,1.0,4
+ORD1939,2025-08-14,Lucknow,Electronics,Marketplace,Cash on Delivery,BlueRoute,Returned,1,5048.29,5048.29,3.0,4
+ORD1125,2025-08-15,Nagpur,Books,Website,Credit Card,SwiftShip,Delivered,3,14874.51,44623.53,2.0,3
+ORD1287,2025-08-15,Indore,Home & Kitchen,Marketplace,Debit Card,ParcelPro,Delivered,2,2775.41,5550.82,3.0,2
+ORD1903,2025-08-15,Nagpur,Electronics,Mobile App,Wallet,QuickKart,Delivered,2,3321.9,6643.8,1.0,5
+ORD1670,2025-08-15,Lucknow,Electronics,Website,Debit Card,QuickKart,Delivered,2,1411.69,2823.38,4.0,5
+ORD1543,2025-08-15,Indore,Fashion,Mobile App,Wallet,QuickKart,Delivered,3,7332.86,21998.58,2.0,2
+ORD1701,2025-08-16,Jaipur,Fashion,Website,Credit Card,QuickKart,Delivered,1,13809.6,13809.6,1.0,2
+ORD2100,2025-08-16,Nagpur,Home & Kitchen,Marketplace,Cash on Delivery,SwiftShip,Delivered,1,12524.13,12524.13,4.0,5
+ORD1926,2025-08-16,Jaipur,Electronics,Website,Debit Card,ParcelPro,Delayed,3,6152.96,18458.88,1.0,5
+ORD1783,2025-08-17,Kanpur,Fashion,Website,Credit Card,BlueRoute,Delivered,2,1697.89,3395.78,1.0,2
+ORD1439,2025-08-17,Surat,Home & Kitchen,Mobile App,Debit Card,QuickKart,Delivered,1,4299.62,4299.62,3.0,5
+ORD2038,2025-08-17,Patna,Fashion,Marketplace,Wallet,ParcelPro,Delivered,3,4574.45,13723.35,2.0,4
+ORD1668,2025-08-17,Surat,Beauty,Website,Wallet,SwiftShip,Delivered,3,4433.13,13299.39,3.0,4
+ORD1942,2025-08-17,Nagpur,Electronics,Marketplace,Wallet,ParcelPro,Delivered,1,5073.8,5073.8,5.0,3
+ORD1962,2025-08-17,Kanpur,Beauty,Website,Wallet,SwiftShip,Delayed,1,3126.8,3126.8,2.0,5
+ORD1605,2025-08-18,Patna,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,9993.8,9993.8,3.0,3
+ORD1312,2025-08-18,Jaipur,Electronics,Website,Credit Card,BlueRoute,Delivered,1,396.84,396.84,2.0,3
+ORD2082,2025-08-19,Patna,Electronics,Marketplace,Wallet,SwiftShip,Delivered,1,14765.06,14765.06,4.0,2
+ORD1141,2025-08-19,Indore,Home & Kitchen,Mobile App,Credit Card,SwiftShip,Delivered,2,4966.2,9932.4,1.0,5
+ORD1911,2025-08-19,Kanpur,Home & Kitchen,Marketplace,Debit Card,SwiftShip,Cancelled,1,805.48,805.48,,3
+ORD1108,2025-08-19,Bhopal,Sports,Marketplace,Credit Card,BlueRoute,Delivered,2,537.83,1075.66,2.0,4
+ORD1146,2025-08-19,Indore,Sports,Website,Cash on Delivery,SwiftShip,Delivered,3,3537.01,10611.03,5.0,2
+ORD1173,2025-08-19,Bhopal,Books,Marketplace,Debit Card,BlueRoute,Delivered,1,11868.02,11868.02,1.0,2
+ORD1922,2025-08-21,Kanpur,Electronics,Marketplace,Credit Card,SwiftShip,Delivered,2,4081.11,8162.22,3.0,2
+ORD1674,2025-08-21,Bhopal,Electronics,Marketplace,Cash on Delivery,ParcelPro,Delivered,3,9632.56,28897.68,5.0,3
+ORD1570,2025-08-21,Jaipur,Home & Kitchen,Website,Wallet,ParcelPro,Delivered,1,6822.77,6822.77,3.0,2
+ORD1179,2025-08-21,Bhopal,Electronics,Marketplace,Wallet,ParcelPro,Delayed,1,10082.51,10082.51,4.0,4
+ORD1337,2025-08-21,Bhopal,Fashion,Mobile App,UPI,SwiftShip,Delivered,1,8973.03,8973.03,2.0,5
+ORD1851,2025-08-21,Indore,Beauty,Website,Cash on Delivery,ParcelPro,Delivered,3,8688.69,26066.07,1.0,4
+ORD1194,2025-08-21,Lucknow,Electronics,Website,Credit Card,ParcelPro,Delivered,2,2742.36,5484.72,4.0,3
+ORD1271,2025-08-21,Patna,Beauty,Website,Credit Card,SwiftShip,Delivered,3,13829.72,41489.16,4.0,3
+ORD1188,2025-08-22,Surat,Fashion,Website,Debit Card,QuickKart,Delivered,2,4410.52,8821.04,2.0,2
+ORD1597,2025-08-23,Kanpur,Fashion,Mobile App,Wallet,QuickKart,Delivered,1,6592.76,6592.76,3.0,3
+ORD1820,2025-08-23,Bhopal,Electronics,Mobile App,Wallet,SwiftShip,Delivered,1,4603.05,4603.05,1.0,5
+ORD1931,2025-08-24,Patna,Fashion,Marketplace,UPI,ParcelPro,Delivered,2,4484.82,8969.64,2.0,3
+ORD2024,2025-08-24,Surat,Sports,Mobile App,Wallet,SwiftShip,Delivered,2,3836.1,7672.2,2.0,5
+ORD1028,2025-08-24,Patna,Fashion,Website,Wallet,SwiftShip,Delivered,3,5389.53,16168.59,3.0,3
+ORD1775,2025-08-24,Nagpur,Sports,Mobile App,UPI,ParcelPro,Delivered,1,11495.76,11495.76,2.0,4
+ORD2051,2025-08-25,Lucknow,Electronics,Mobile App,UPI,SwiftShip,Delivered,2,8441.49,16882.98,1.0,4
+ORD1147,2025-08-25,Jaipur,Sports,Website,UPI,ParcelPro,Delayed,2,2174.5,4349.0,3.0,3
+ORD1455,2025-08-25,Jaipur,Electronics,Website,Cash on Delivery,BlueRoute,Delivered,1,12686.57,12686.57,4.0,3
+ORD1084,2025-08-25,Indore,Electronics,Website,Debit Card,BlueRoute,Delivered,3,9709.12,29127.36,4.0,3
+ORD1309,2025-08-26,Nagpur,Electronics,Website,Debit Card,BlueRoute,Delivered,1,3222.88,3222.88,1.0,2
+ORD1898,2025-08-26,Kanpur,Electronics,Marketplace,Credit Card,QuickKart,Delivered,2,5517.22,11034.44,4.0,5
+ORD1473,2025-08-26,Jaipur,Books,Mobile App,Cash on Delivery,ParcelPro,Delivered,2,10187.42,20374.84,4.0,5
+ORD1865,2025-08-27,Nagpur,Electronics,Marketplace,Credit Card,QuickKart,Delivered,2,5265.54,10531.08,3.0,3
+ORD1900,2025-08-27,Patna,Home & Kitchen,Marketplace,Debit Card,ParcelPro,Delivered,3,8040.17,24120.51,4.0,3
+ORD1600,2025-08-27,Indore,Home & Kitchen,Marketplace,Cash on Delivery,ParcelPro,Delivered,2,12900.46,25800.92,1.0,3
+ORD1727,2025-08-27,Bhopal,Fashion,Mobile App,Cash on Delivery,SwiftShip,Delivered,3,5918.65,17755.95,5.0,5
+ORD1448,2025-08-27,Indore,Electronics,Mobile App,Wallet,QuickKart,Delivered,2,14918.81,29837.62,2.0,2
+ORD1822,2025-08-28,Lucknow,Home & Kitchen,Website,Credit Card,BlueRoute,Delivered,3,12237.42,36712.26,2.0,3
+ORD1232,2025-08-28,Kanpur,Home & Kitchen,Mobile App,Debit Card,BlueRoute,Delivered,1,7243.32,7243.32,2.0,5
+ORD1707,2025-08-28,Patna,Home & Kitchen,Marketplace,UPI,QuickKart,Delivered,2,4627.88,9255.76,2.0,5
+ORD1142,2025-08-29,Kanpur,Beauty,Marketplace,UPI,BlueRoute,Delivered,1,6713.95,6713.95,3.0,5
+ORD1052,2025-08-30,Bhopal,Sports,Marketplace,UPI,BlueRoute,Delivered,2,14518.17,29036.34,4.0,5
+ORD1523,2025-08-30,Lucknow,Electronics,Marketplace,Debit Card,QuickKart,Delivered,1,3219.15,3219.15,4.0,2
+ORD1718,2025-08-30,Kanpur,Sports,Website,Credit Card,ParcelPro,Delivered,1,11749.97,11749.97,1.0,3
+ORD1642,2025-08-30,Patna,Fashion,Marketplace,Wallet,SwiftShip,Delivered,1,7486.03,7486.03,1.0,3
+ORD2116,2025-08-31,Jaipur,Home & Kitchen,Website,Debit Card,BlueRoute,Delivered,2,553.84,1107.68,1.0,2
+ORD1959,2025-08-31,Indore,Fashion,Website,Cash on Delivery,SwiftShip,Delivered,2,4766.76,9533.52,2.0,4
+ORD1156,2025-08-31,Nagpur,Home & Kitchen,Mobile App,Debit Card,BlueRoute,Delivered,3,12778.64,38335.92,2.0,3
+ORD1040,2025-09-01,Lucknow,Sports,Marketplace,Debit Card,QuickKart,Delivered,2,10521.58,21043.16,3.0,3
+ORD2177,2025-09-01,Nagpur,Electronics,Marketplace,UPI,QuickKart,Delivered,2,7449.99,14899.98,1.0,3
+ORD1371,2025-09-03,Bhopal,Home & Kitchen,Mobile App,Credit Card,ParcelPro,Delivered,3,2764.48,8293.44,1.0,2
+ORD1486,2025-09-03,Kanpur,Beauty,Mobile App,Debit Card,ParcelPro,Delivered,3,13317.43,39952.29,4.0,4
+ORD1462,2025-09-04,Jaipur,Fashion,Website,UPI,SwiftShip,Delivered,1,4064.2,4064.2,2.0,2
+ORD1221,2025-09-04,Patna,Sports,Marketplace,Debit Card,BlueRoute,Delivered,1,1277.95,1277.95,1.0,5
+ORD1803,2025-09-04,Indore,Sports,Website,UPI,BlueRoute,Delivered,1,5473.58,5473.58,2.0,5
+ORD1501,2025-09-04,Indore,Sports,Mobile App,UPI,SwiftShip,Delivered,1,12630.97,12630.97,4.0,3
+ORD1958,2025-09-04,Nagpur,Electronics,Marketplace,Credit Card,BlueRoute,Delivered,2,3574.31,7148.62,3.0,4
+ORD1375,2025-09-04,Nagpur,Electronics,Mobile App,Debit Card,ParcelPro,Delivered,2,1194.07,2388.14,5.0,5
+ORD1539,2025-09-06,Patna,Sports,Mobile App,Wallet,SwiftShip,Delivered,1,7671.69,7671.69,1.0,3
+ORD1861,2025-09-06,Surat,Home & Kitchen,Website,UPI,SwiftShip,Returned,3,13264.17,39792.51,3.0,3
+ORD1799,2025-09-06,Nagpur,Books,Marketplace,Wallet,SwiftShip,Delivered,1,2068.0,2068.0,2.0,5
+ORD1824,2025-09-06,Indore,Electronics,Marketplace,Wallet,ParcelPro,Delivered,3,10196.88,30590.64,3.0,5
+ORD1492,2025-09-07,Patna,Books,Website,Credit Card,BlueRoute,Delivered,2,3221.78,6443.56,1.0,2
+ORD1768,2025-09-07,Surat,Electronics,Marketplace,Wallet,BlueRoute,Delivered,2,12660.36,25320.72,4.0,4
+ORD1484,2025-09-07,Jaipur,Sports,Marketplace,UPI,SwiftShip,Delivered,1,6145.54,6145.54,5.0,2
+ORD2187,2025-09-08,Nagpur,Sports,Website,Cash on Delivery,BlueRoute,Delivered,2,5122.56,10245.12,2.0,5
+ORD1777,2025-09-08,Surat,Fashion,Mobile App,UPI,BlueRoute,Cancelled,1,4920.85,4920.85,,4
+ORD1719,2025-09-08,Lucknow,Sports,Mobile App,Debit Card,SwiftShip,Delivered,2,11616.81,23233.62,2.0,5
+ORD1667,2025-09-09,Indore,Beauty,Website,Cash on Delivery,BlueRoute,Delivered,1,2928.64,2928.64,1.0,2
+ORD1079,2025-09-09,Patna,Electronics,Website,UPI,QuickKart,Delivered,2,10211.4,20422.8,3.0,2
+ORD1789,2025-09-09,Indore,Home & Kitchen,Website,Credit Card,BlueRoute,Delivered,1,7457.65,7457.65,3.0,3
+ORD1089,2025-09-09,Jaipur,Home & Kitchen,Mobile App,Wallet,QuickKart,Delivered,2,6319.53,12639.06,3.0,4
+ORD1629,2025-09-09,Nagpur,Electronics,Website,Cash on Delivery,SwiftShip,Delivered,1,4189.52,4189.52,2.0,3
+ORD1242,2025-09-09,Indore,Fashion,Marketplace,Cash on Delivery,SwiftShip,Delivered,2,3848.73,7697.46,3.0,5
+ORD1259,2025-09-09,Bhopal,Sports,Mobile App,Credit Card,SwiftShip,Delivered,1,12628.28,12628.28,2.0,2
+ORD1879,2025-09-10,Jaipur,Fashion,Website,Cash on Delivery,QuickKart,Delivered,3,13479.02,40437.06,1.0,5
+ORD1710,2025-09-10,Kanpur,Electronics,Marketplace,Cash on Delivery,BlueRoute,Cancelled,1,7823.84,7823.84,,5
+ORD1027,2025-09-10,Nagpur,Home & Kitchen,Website,Wallet,ParcelPro,Delivered,3,6378.09,19134.27,3.0,4
+ORD1348,2025-09-10,Kanpur,Beauty,Marketplace,Credit Card,SwiftShip,Delivered,3,12604.81,37814.43,4.0,4
+ORD1522,2025-09-10,Jaipur,Electronics,Mobile App,Cash on Delivery,QuickKart,Delivered,1,8833.64,8833.64,4.0,4
+ORD1604,2025-09-10,Surat,Fashion,Website,UPI,BlueRoute,Delayed,1,4271.52,4271.52,2.0,5
+ORD1480,2025-09-11,Patna,Electronics,Website,Debit Card,ParcelPro,Delivered,3,10300.6,30901.8,2.0,2
+ORD2124,2025-09-11,Indore,Home & Kitchen,Website,Wallet,ParcelPro,Delivered,3,687.06,2061.18,4.0,5
+ORD1266,2025-09-11,Surat,Books,Marketplace,Credit Card,SwiftShip,Delivered,2,11179.07,22358.14,1.0,2
+ORD2087,2025-09-11,Kanpur,Beauty,Mobile App,Cash on Delivery,SwiftShip,Delayed,1,14853.6,14853.6,3.0,5
+ORD1286,2025-09-11,Jaipur,Fashion,Website,UPI,SwiftShip,Delivered,3,3912.22,11736.66,2.0,3
+ORD1131,2025-09-12,Surat,Beauty,Mobile App,Cash on Delivery,SwiftShip,Delayed,1,4023.79,4023.79,5.0,3
+ORD1780,2025-09-12,Kanpur,Sports,Website,Cash on Delivery,BlueRoute,Delayed,2,7165.45,14330.9,1.0,5
+ORD1226,2025-09-12,Jaipur,Electronics,Marketplace,UPI,SwiftShip,Delivered,1,11278.95,11278.95,4.0,4
+ORD1350,2025-09-13,Patna,Books,Website,Debit Card,QuickKart,Delivered,1,2289.11,2289.11,4.0,3
+ORD1712,2025-09-13,Jaipur,Home & Kitchen,Mobile App,UPI,ParcelPro,Delivered,1,6568.08,6568.08,6.0,3
+ORD1875,2025-09-14,Lucknow,Home & Kitchen,Website,Cash on Delivery,QuickKart,Delivered,2,4678.08,9356.16,2.0,2
+ORD1495,2025-09-14,Bhopal,Beauty,Website,Debit Card,SwiftShip,Returned,1,995.69,995.69,4.0,2
+ORD1128,2025-09-14,Bhopal,Fashion,Marketplace,Cash on Delivery,QuickKart,Delivered,1,9106.85,9106.85,4.0,2
+ORD2158,2025-09-14,Patna,Electronics,Mobile App,UPI,SwiftShip,Delivered,1,14012.96,14012.96,5.0,3
+ORD1502,2025-09-15,Patna,Sports,Mobile App,Wallet,ParcelPro,Delivered,1,5027.98,5027.98,1.0,3
+ORD1019,2025-09-15,Indore,Home & Kitchen,Website,UPI,SwiftShip,Delivered,1,12725.84,12725.84,2.0,2
+ORD1240,2025-09-16,Jaipur,Beauty,Marketplace,Wallet,QuickKart,Delivered,1,5700.74,5700.74,3.0,5
+ORD1771,2025-09-16,Patna,Electronics,Mobile App,Cash on Delivery,ParcelPro,Delivered,1,9796.13,9796.13,4.0,5
+ORD1747,2025-09-16,Kanpur,Beauty,Website,UPI,SwiftShip,Delivered,2,8950.26,17900.52,4.0,5
+ORD2001,2025-09-16,Kanpur,Sports,Marketplace,Debit Card,SwiftShip,Delayed,1,8936.64,8936.64,3.0,4
+ORD1180,2025-09-16,Patna,Sports,Website,Wallet,BlueRoute,Delivered,1,4162.09,4162.09,3.0,3
+ORD1680,2025-09-16,Surat,Home & Kitchen,Mobile App,Debit Card,BlueRoute,Cancelled,2,3766.75,7533.5,,5
+ORD1067,2025-09-17,Bhopal,Books,Mobile App,Credit Card,QuickKart,Delivered,1,9546.09,9546.09,2.0,5
+ORD1760,2025-09-17,Surat,Books,Website,Wallet,QuickKart,Delivered,3,3118.19,9354.57,5.0,3
+ORD2107,2025-09-18,Bhopal,Fashion,Website,Cash on Delivery,BlueRoute,Delivered,1,14742.79,14742.79,3.0,3
+ORD2005,2025-09-18,Patna,Fashion,Marketplace,Credit Card,BlueRoute,Delivered,1,2071.87,2071.87,5.0,5
+ORD1107,2025-09-18,Kanpur,Electronics,Mobile App,Debit Card,BlueRoute,Delivered,3,12297.26,36891.78,4.0,3
+ORD1419,2025-09-19,Indore,Fashion,Marketplace,Wallet,QuickKart,Delivered,1,5476.62,5476.62,4.0,4
+ORD1816,2025-09-19,Nagpur,Beauty,Website,Credit Card,BlueRoute,Delivered,1,14889.45,14889.45,3.0,2
+ORD1258,2025-09-20,Nagpur,Books,Website,Credit Card,BlueRoute,Delivered,1,6349.94,6349.94,2.0,2
+ORD1315,2025-09-21,Indore,Fashion,Marketplace,Credit Card,QuickKart,Delivered,3,5712.49,17137.47,2.0,4
+ORD1412,2025-09-21,Jaipur,Electronics,Mobile App,UPI,QuickKart,Delivered,1,12660.83,12660.83,1.0,4
+ORD1386,2025-09-21,Kanpur,Fashion,Website,Debit Card,SwiftShip,Delivered,2,13762.02,27524.04,1.0,3
+ORD1528,2025-09-21,Bhopal,Electronics,Marketplace,Debit Card,QuickKart,Delivered,3,9039.22,27117.66,2.0,4
+ORD1930,2025-09-21,Jaipur,Books,Mobile App,Credit Card,SwiftShip,Delivered,2,2199.71,4399.42,1.0,3
+ORD1058,2025-09-21,Surat,Electronics,Mobile App,Credit Card,BlueRoute,Delivered,3,8598.6,25795.8,3.0,3
+ORD1053,2025-09-22,Kanpur,Electronics,Mobile App,Wallet,ParcelPro,Delivered,2,3862.59,7725.18,1.0,5
+ORD1572,2025-09-22,Indore,Sports,Website,UPI,ParcelPro,Delivered,3,2588.43,7765.29,1.0,3
+ORD2017,2025-09-22,Bhopal,Fashion,Website,UPI,ParcelPro,Delivered,2,6052.1,12104.2,3.0,5
+ORD2036,2025-09-24,Bhopal,Beauty,Mobile App,Cash on Delivery,BlueRoute,Delivered,3,4880.13,14640.39,2.0,3
+ORD2157,2025-09-24,Surat,Home & Kitchen,Marketplace,Cash on Delivery,QuickKart,Delivered,1,2380.71,2380.71,2.0,2
+ORD1254,2025-09-24,Nagpur,Electronics,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,3583.42,7166.84,3.0,4
+ORD1729,2025-09-24,Jaipur,Beauty,Website,Credit Card,SwiftShip,Delivered,2,7625.94,15251.88,1.0,2
+ORD1511,2025-09-25,Surat,Fashion,Mobile App,Cash on Delivery,SwiftShip,Delivered,3,5467.18,16401.54,3.0,5
+ORD1553,2025-09-25,Nagpur,Fashion,Marketplace,Debit Card,SwiftShip,Delivered,1,11525.68,11525.68,4.0,2
+ORD1773,2025-09-25,Lucknow,Fashion,Marketplace,UPI,QuickKart,Delivered,1,4943.34,4943.34,3.0,4
+ORD1114,2025-09-25,Nagpur,Electronics,Website,Cash on Delivery,QuickKart,Delivered,3,4126.73,12380.19,4.0,4
+ORD1199,2025-09-25,Patna,Fashion,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,6570.83,13141.66,1.0,2
+ORD1427,2025-09-26,Kanpur,Home & Kitchen,Mobile App,UPI,QuickKart,Delivered,1,9638.06,9638.06,5.0,3
+ORD1074,2025-09-27,Nagpur,Electronics,Website,Wallet,BlueRoute,Delayed,2,9671.04,19342.08,6.0,4
+ORD2039,2025-09-27,Kanpur,Sports,Mobile App,UPI,ParcelPro,Delivered,3,3949.29,11847.87,2.0,2
+ORD1034,2025-09-28,Bhopal,Home & Kitchen,Mobile App,UPI,BlueRoute,Returned,2,4050.45,8100.9,3.0,4
+ORD1409,2025-09-28,Lucknow,Books,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,218.92,437.84,1.0,5
+ORD1077,2025-09-28,Jaipur,Electronics,Marketplace,Credit Card,SwiftShip,Delivered,1,2986.57,2986.57,2.0,3
+ORD1003,2025-09-28,Nagpur,Home & Kitchen,Website,Credit Card,BlueRoute,Delivered,1,1171.49,1171.49,2.0,3
+ORD1685,2025-09-29,Jaipur,Books,Mobile App,Credit Card,ParcelPro,Delivered,1,8761.75,8761.75,3.0,4
+ORD1456,2025-09-29,Lucknow,Home & Kitchen,Mobile App,Cash on Delivery,ParcelPro,Delivered,3,2876.2,8628.6,1.0,3
+ORD1812,2025-09-30,Indore,Home & Kitchen,Mobile App,UPI,ParcelPro,Delivered,3,10093.49,30280.47,3.0,4
+ORD2016,2025-09-30,Nagpur,Sports,Mobile App,Cash on Delivery,QuickKart,Delivered,1,13728.52,13728.52,2.0,4
+ORD1910,2025-09-30,Nagpur,Fashion,Marketplace,Credit Card,QuickKart,Delayed,2,1663.74,3327.48,3.0,3
+ORD1561,2025-09-30,Lucknow,Electronics,Marketplace,Credit Card,QuickKart,Returned,2,1216.56,2433.12,1.0,4
+ORD1368,2025-09-30,Surat,Electronics,Marketplace,Debit Card,BlueRoute,Delivered,1,9782.24,9782.24,1.0,5
+ORD1901,2025-10-01,Kanpur,Electronics,Mobile App,Debit Card,ParcelPro,Delivered,2,14731.2,29462.4,4.0,2
+ORD1048,2025-10-01,Bhopal,Beauty,Marketplace,UPI,ParcelPro,Delivered,3,3603.79,10811.37,3.0,4
+ORD1985,2025-10-02,Nagpur,Home & Kitchen,Mobile App,Debit Card,ParcelPro,Delivered,1,8423.43,8423.43,3.0,4
+ORD1630,2025-10-02,Nagpur,Beauty,Mobile App,Debit Card,SwiftShip,Delivered,2,14471.43,28942.86,2.0,5
+ORD1435,2025-10-02,Indore,Electronics,Mobile App,Credit Card,ParcelPro,Delivered,1,2604.56,2604.56,2.0,5
+ORD1319,2025-10-04,Jaipur,Fashion,Mobile App,Credit Card,BlueRoute,Delayed,1,6609.81,6609.81,3.0,2
+ORD1301,2025-10-04,Jaipur,Fashion,Mobile App,UPI,ParcelPro,Delivered,1,14127.59,14127.59,4.0,4
+ORD1023,2025-10-04,Nagpur,Books,Marketplace,UPI,SwiftShip,Delivered,1,8905.3,8905.3,1.0,4
+ORD1842,2025-10-04,Patna,Sports,Marketplace,Wallet,QuickKart,Cancelled,1,13278.68,13278.68,,4
+ORD1945,2025-10-04,Surat,Home & Kitchen,Mobile App,Wallet,BlueRoute,Delivered,1,11421.88,11421.88,3.0,4
+ORD1538,2025-10-04,Nagpur,Home & Kitchen,Website,Cash on Delivery,QuickKart,Delivered,1,6550.41,6550.41,3.0,5
+ORD1460,2025-10-05,Indore,Fashion,Website,Debit Card,BlueRoute,Delivered,1,10569.74,10569.74,5.0,5
+ORD1556,2025-10-06,Nagpur,Home & Kitchen,Website,Credit Card,BlueRoute,Delivered,2,3788.66,7577.32,5.0,5
+ORD1442,2025-10-06,Nagpur,Home & Kitchen,Mobile App,Wallet,BlueRoute,Delivered,1,9071.02,9071.02,4.0,4
+ORD1499,2025-10-07,Surat,Electronics,Marketplace,Debit Card,QuickKart,Delivered,1,207.85,207.85,1.0,5
+ORD1228,2025-10-07,Indore,Fashion,Website,Debit Card,ParcelPro,Delayed,2,11875.2,23750.4,4.0,4
+ORD1087,2025-10-07,Kanpur,Electronics,Marketplace,Credit Card,BlueRoute,Delivered,1,9888.46,9888.46,1.0,2
+ORD1361,2025-10-07,Indore,Beauty,Mobile App,Credit Card,QuickKart,Delivered,1,3705.61,3705.61,4.0,4
+ORD1339,2025-10-07,Patna,Sports,Marketplace,Wallet,ParcelPro,Delivered,1,14958.12,14958.12,3.0,5
+ORD1354,2025-10-08,Bhopal,Sports,Marketplace,Wallet,SwiftShip,Delivered,1,2449.32,2449.32,2.0,2
+ORD1832,2025-10-08,Jaipur,Home & Kitchen,Website,Cash on Delivery,ParcelPro,Delivered,2,3960.38,7920.76,6.0,2
+ORD1937,2025-10-09,Jaipur,Electronics,Website,Debit Card,SwiftShip,Delivered,1,6292.87,6292.87,4.0,2
+ORD1731,2025-10-09,Surat,Fashion,Marketplace,UPI,ParcelPro,Delivered,2,13826.2,27652.4,4.0,2
+ORD2118,2025-10-09,Jaipur,Beauty,Marketplace,UPI,SwiftShip,Delivered,2,11202.84,22405.68,2.0,4
+ORD1860,2025-10-09,Lucknow,Fashion,Website,UPI,QuickKart,Delivered,1,1866.57,1866.57,3.0,4
+ORD2120,2025-10-10,Surat,Home & Kitchen,Mobile App,Wallet,QuickKart,Delivered,1,9784.52,9784.52,3.0,5
+ORD1736,2025-10-10,Patna,Books,Mobile App,Debit Card,BlueRoute,Delivered,2,1462.96,2925.92,2.0,5
+ORD1611,2025-10-10,Patna,Sports,Marketplace,Wallet,ParcelPro,Delivered,3,3201.23,9603.69,3.0,2
+ORD1133,2025-10-10,Nagpur,Electronics,Mobile App,Debit Card,SwiftShip,Delivered,1,14482.92,14482.92,1.0,5
+ORD1176,2025-10-10,Indore,Fashion,Marketplace,UPI,SwiftShip,Delivered,1,12111.62,12111.62,3.0,5
+ORD1316,2025-10-10,Patna,Fashion,Website,Cash on Delivery,SwiftShip,Delivered,1,12503.24,12503.24,2.0,5
+ORD1164,2025-10-11,Surat,Fashion,Mobile App,UPI,ParcelPro,Cancelled,1,13258.76,13258.76,,5
+ORD1573,2025-10-11,Jaipur,Electronics,Marketplace,UPI,ParcelPro,Delivered,2,11279.74,22559.48,3.0,3
+ORD1322,2025-10-11,Surat,Fashion,Website,Wallet,SwiftShip,Delivered,1,14097.21,14097.21,5.0,3
+ORD1158,2025-10-11,Kanpur,Electronics,Website,Cash on Delivery,QuickKart,Delivered,2,7885.91,15771.82,3.0,5
+ORD1808,2025-10-12,Patna,Electronics,Marketplace,Wallet,ParcelPro,Delivered,3,2381.32,7143.96,2.0,5
+ORD1518,2025-10-12,Bhopal,Books,Marketplace,Cash on Delivery,ParcelPro,Delivered,1,1005.78,1005.78,1.0,2
+ORD1468,2025-10-12,Patna,Electronics,Website,Credit Card,BlueRoute,Delivered,1,6651.73,6651.73,2.0,2
+ORD2197,2025-10-12,Nagpur,Home & Kitchen,Marketplace,Cash on Delivery,SwiftShip,Delivered,2,8381.06,16762.12,2.0,5
+ORD1717,2025-10-13,Kanpur,Fashion,Website,Wallet,SwiftShip,Delivered,1,9135.13,9135.13,2.0,2
+ORD1795,2025-10-13,Kanpur,Fashion,Website,Cash on Delivery,ParcelPro,Delivered,1,8014.1,8014.1,2.0,4
+ORD2041,2025-10-13,Kanpur,Electronics,Website,Wallet,SwiftShip,Delivered,2,5094.74,10189.48,2.0,2
+ORD1320,2025-10-13,Nagpur,Fashion,Website,Wallet,ParcelPro,Delivered,3,5914.94,17744.82,3.0,5
+ORD1169,2025-10-13,Bhopal,Fashion,Mobile App,UPI,QuickKart,Delayed,1,6864.19,6864.19,4.0,5
+ORD1560,2025-10-13,Bhopal,Sports,Mobile App,UPI,ParcelPro,Delayed,3,5912.55,17737.65,4.0,5
+ORD2151,2025-10-14,Bhopal,Fashion,Marketplace,Credit Card,BlueRoute,Delivered,1,7782.94,7782.94,1.0,5
+ORD1363,2025-10-15,Nagpur,Fashion,Mobile App,Wallet,BlueRoute,Cancelled,1,9628.0,9628.0,,5
+ORD1761,2025-10-15,Jaipur,Fashion,Mobile App,Debit Card,ParcelPro,Delivered,2,4982.27,9964.54,2.0,4
+ORD1392,2025-10-15,Jaipur,Electronics,Mobile App,UPI,ParcelPro,Delivered,2,4745.8,9491.6,1.0,5
+ORD2059,2025-10-15,Indore,Home & Kitchen,Marketplace,Cash on Delivery,BlueRoute,Delayed,2,3989.11,7978.22,2.0,4
+ORD1300,2025-10-16,Nagpur,Home & Kitchen,Marketplace,Wallet,SwiftShip,Delivered,1,12461.62,12461.62,3.0,2
+ORD2086,2025-10-16,Patna,Sports,Website,Cash on Delivery,QuickKart,Delivered,3,6680.87,20042.61,5.0,5
+ORD2081,2025-10-16,Lucknow,Electronics,Mobile App,Wallet,BlueRoute,Delivered,2,13468.26,26936.52,4.0,3
+ORD1106,2025-10-16,Kanpur,Home & Kitchen,Website,Cash on Delivery,QuickKart,Delivered,3,7554.06,22662.18,4.0,3
+ORD1943,2025-10-16,Jaipur,Fashion,Mobile App,Credit Card,SwiftShip,Delivered,2,7752.81,15505.62,3.0,4
+ORD1479,2025-10-16,Bhopal,Fashion,Mobile App,Cash on Delivery,BlueRoute,Delivered,1,13156.23,13156.23,4.0,4
+ORD1723,2025-10-16,Nagpur,Beauty,Mobile App,UPI,SwiftShip,Delivered,1,9182.2,9182.2,3.0,2
+ORD1449,2025-10-17,Kanpur,Electronics,Mobile App,Debit Card,SwiftShip,Delivered,3,12369.62,37108.86,3.0,5
+ORD1489,2025-10-17,Patna,Electronics,Website,Wallet,BlueRoute,Delivered,3,1133.32,3399.96,2.0,2
+ORD2175,2025-10-18,Lucknow,Home & Kitchen,Marketplace,Wallet,BlueRoute,Delivered,2,10243.01,20486.02,2.0,2
+ORD2042,2025-10-18,Indore,Sports,Marketplace,Wallet,BlueRoute,Delivered,2,1250.16,2500.32,4.0,3
+ORD2117,2025-10-19,Jaipur,Fashion,Marketplace,Credit Card,SwiftShip,Delivered,1,348.05,348.05,2.0,4
+ORD1874,2025-10-19,Surat,Beauty,Marketplace,Credit Card,ParcelPro,Delivered,2,2625.19,5250.38,2.0,3
+ORD1627,2025-10-19,Nagpur,Fashion,Mobile App,Credit Card,SwiftShip,Delivered,3,5371.94,16115.82,4.0,4
+ORD2146,2025-10-20,Indore,Fashion,Marketplace,UPI,QuickKart,Delivered,3,9530.71,28592.13,1.0,3
+ORD1997,2025-10-20,Jaipur,Electronics,Website,Wallet,ParcelPro,Delivered,2,5909.72,11819.44,3.0,2
+ORD1119,2025-10-20,Patna,Electronics,Website,Credit Card,ParcelPro,Delivered,1,4133.6,4133.6,3.0,5
+ORD1791,2025-10-21,Jaipur,Fashion,Marketplace,Wallet,QuickKart,Delivered,1,7920.8,7920.8,2.0,5
+ORD1902,2025-10-21,Indore,Fashion,Website,Wallet,SwiftShip,Delayed,1,13738.9,13738.9,3.0,2
+ORD1021,2025-10-21,Surat,Beauty,Marketplace,Wallet,QuickKart,Delivered,2,5541.41,11082.82,1.0,3
+ORD2181,2025-10-21,Kanpur,Electronics,Website,Debit Card,BlueRoute,Delayed,1,2215.26,2215.26,1.0,5
+ORD1227,2025-10-21,Jaipur,Home & Kitchen,Website,Debit Card,SwiftShip,Delivered,3,10662.25,31986.75,2.0,4
+ORD2097,2025-10-21,Lucknow,Fashion,Marketplace,Cash on Delivery,ParcelPro,Delivered,1,699.08,699.08,1.0,5
+ORD1200,2025-10-22,Kanpur,Electronics,Website,Credit Card,BlueRoute,Delivered,3,9019.63,27058.89,2.0,2
+ORD2056,2025-10-22,Patna,Home & Kitchen,Mobile App,Debit Card,ParcelPro,Delivered,1,1325.05,1325.05,3.0,3
+ORD2030,2025-10-23,Lucknow,Home & Kitchen,Marketplace,Cash on Delivery,QuickKart,Delivered,2,8468.2,16936.4,2.0,5
+ORD2054,2025-10-23,Lucknow,Fashion,Marketplace,Cash on Delivery,QuickKart,Cancelled,1,12509.02,12509.02,,5
+ORD2154,2025-10-23,Jaipur,Books,Marketplace,Credit Card,BlueRoute,Delayed,1,6759.15,6759.15,2.0,5
+ORD1081,2025-10-23,Nagpur,Sports,Mobile App,Credit Card,ParcelPro,Delivered,1,13201.03,13201.03,1.0,3
+ORD2155,2025-10-24,Kanpur,Sports,Marketplace,Debit Card,SwiftShip,Delivered,1,5436.8,5436.8,1.0,4
+ORD1256,2025-10-25,Surat,Books,Website,Wallet,QuickKart,Delivered,1,14330.74,14330.74,1.0,2
+ORD1370,2025-10-26,Kanpur,Sports,Marketplace,Credit Card,BlueRoute,Delivered,1,6711.86,6711.86,1.0,3
+ORD2119,2025-10-26,Bhopal,Electronics,Mobile App,Credit Card,SwiftShip,Delivered,1,13690.95,13690.95,3.0,5
+ORD1914,2025-10-27,Patna,Books,Mobile App,Credit Card,SwiftShip,Delivered,1,3722.66,3722.66,4.0,5
+ORD1980,2025-10-27,Indore,Sports,Website,UPI,ParcelPro,Delivered,2,11155.63,22311.26,2.0,4
+ORD1858,2025-10-28,Patna,Fashion,Website,Cash on Delivery,QuickKart,Delayed,3,7197.61,21592.83,3.0,5
+ORD1094,2025-10-28,Nagpur,Fashion,Website,UPI,ParcelPro,Delivered,1,13064.04,13064.04,3.0,2
+ORD1625,2025-10-28,Patna,Books,Mobile App,Credit Card,BlueRoute,Delivered,2,6565.11,13130.22,1.0,2
+ORD2133,2025-10-29,Kanpur,Fashion,Marketplace,Credit Card,QuickKart,Delivered,2,431.89,863.78,4.0,3
+ORD1341,2025-10-29,Indore,Electronics,Marketplace,Wallet,BlueRoute,Delivered,2,2687.15,5374.3,2.0,5
+ORD2159,2025-10-29,Bhopal,Fashion,Marketplace,Debit Card,ParcelPro,Delivered,1,10610.92,10610.92,2.0,3
+ORD1521,2025-10-29,Kanpur,Fashion,Website,UPI,QuickKart,Delivered,2,11910.01,23820.02,1.0,5
+ORD1714,2025-10-30,Nagpur,Beauty,Marketplace,Credit Card,QuickKart,Delivered,1,4067.68,4067.68,3.0,2
+ORD2099,2025-10-30,Kanpur,Books,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,11052.75,11052.75,4.0,2
+ORD1781,2025-10-30,Lucknow,Sports,Mobile App,UPI,ParcelPro,Delivered,3,2561.56,7684.68,2.0,3
+ORD2131,2025-10-30,Nagpur,Fashion,Website,Debit Card,SwiftShip,Delivered,2,7422.84,14845.68,4.0,5
+ORD1882,2025-10-30,Nagpur,Books,Mobile App,Credit Card,QuickKart,Delivered,2,1782.47,3564.94,3.0,5
+ORD1662,2025-10-30,Kanpur,Beauty,Marketplace,UPI,SwiftShip,Delivered,1,1367.16,1367.16,4.0,2
+ORD1302,2025-10-31,Jaipur,Sports,Website,UPI,BlueRoute,Delayed,2,12908.71,25817.42,1.0,4
+ORD1076,2025-10-31,Nagpur,Fashion,Marketplace,Wallet,BlueRoute,Delayed,1,7433.93,7433.93,1.0,5
+ORD1265,2025-10-31,Lucknow,Electronics,Marketplace,Cash on Delivery,QuickKart,Delivered,3,1007.59,3022.77,1.0,4
+ORD1324,2025-10-31,Bhopal,Beauty,Mobile App,Wallet,ParcelPro,Delivered,2,3414.02,6828.04,3.0,2
+ORD1274,2025-10-31,Bhopal,Electronics,Website,Cash on Delivery,BlueRoute,Delivered,3,10613.76,31841.28,3.0,3
+ORD2021,2025-11-01,Lucknow,Electronics,Mobile App,UPI,ParcelPro,Delivered,2,9863.29,19726.58,5.0,3
+ORD1405,2025-11-01,Jaipur,Electronics,Website,Debit Card,SwiftShip,Delivered,2,14662.74,29325.48,3.0,2
+ORD1675,2025-11-01,Indore,Fashion,Marketplace,UPI,BlueRoute,Delivered,1,11789.77,11789.77,3.0,3
+ORD1378,2025-11-02,Lucknow,Home & Kitchen,Website,Debit Card,ParcelPro,Delivered,1,5515.29,5515.29,3.0,2
+ORD1792,2025-11-02,Bhopal,Home & Kitchen,Marketplace,Credit Card,BlueRoute,Delivered,2,9878.11,19756.22,3.0,4
+ORD1772,2025-11-02,Indore,Sports,Website,UPI,SwiftShip,Delivered,2,13191.14,26382.28,2.0,4
+ORD1043,2025-11-03,Lucknow,Books,Mobile App,Credit Card,ParcelPro,Delivered,1,9582.28,9582.28,5.0,3
+ORD1187,2025-11-03,Surat,Electronics,Mobile App,Credit Card,QuickKart,Delivered,2,1797.78,3595.56,4.0,2
+ORD1425,2025-11-04,Surat,Electronics,Mobile App,Debit Card,BlueRoute,Delivered,2,11987.33,23974.66,2.0,5
+ORD1798,2025-11-04,Kanpur,Books,Mobile App,Credit Card,QuickKart,Delayed,3,8000.78,24002.34,3.0,4
+ORD1248,2025-11-04,Surat,Home & Kitchen,Website,Debit Card,SwiftShip,Delivered,3,8499.94,25499.82,3.0,3
+ORD2069,2025-11-05,Bhopal,Fashion,Mobile App,Debit Card,QuickKart,Delivered,1,12113.26,12113.26,5.0,4
+ORD1018,2025-11-05,Kanpur,Books,Mobile App,Cash on Delivery,SwiftShip,Delivered,3,2197.02,6591.06,4.0,5
+ORD2169,2025-11-05,Surat,Electronics,Marketplace,Credit Card,SwiftShip,Delivered,2,5349.85,10699.7,3.0,5
+ORD1294,2025-11-06,Indore,Sports,Marketplace,Credit Card,BlueRoute,Delivered,1,3948.69,3948.69,3.0,4
+ORD1068,2025-11-06,Surat,Fashion,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,12843.9,25687.8,3.0,2
+ORD1741,2025-11-07,Kanpur,Electronics,Website,Debit Card,SwiftShip,Delivered,2,3946.38,7892.76,4.0,3
+ORD1424,2025-11-07,Bhopal,Beauty,Website,Wallet,ParcelPro,Delivered,1,11006.69,11006.69,1.0,2
+ORD1956,2025-11-07,Kanpur,Fashion,Mobile App,Wallet,QuickKart,Delivered,1,5473.23,5473.23,2.0,2
+ORD1716,2025-11-08,Nagpur,Home & Kitchen,Mobile App,Cash on Delivery,QuickKart,Delivered,1,14561.49,14561.49,4.0,5
+ORD1894,2025-11-08,Kanpur,Sports,Website,Cash on Delivery,QuickKart,Delivered,2,859.99,1719.98,1.0,2
+ORD1653,2025-11-08,Indore,Electronics,Marketplace,UPI,ParcelPro,Delivered,1,4247.42,4247.42,3.0,5
+ORD2164,2025-11-09,Indore,Electronics,Website,Cash on Delivery,ParcelPro,Returned,2,7010.06,14020.12,6.0,2
+ORD2172,2025-11-09,Kanpur,Fashion,Mobile App,Debit Card,BlueRoute,Delivered,3,3937.01,11811.03,5.0,2
+ORD1381,2025-11-09,Lucknow,Books,Mobile App,Credit Card,ParcelPro,Delivered,1,682.35,682.35,1.0,3
+ORD1778,2025-11-09,Kanpur,Sports,Mobile App,UPI,BlueRoute,Delivered,2,1318.33,2636.66,4.0,5
+ORD1402,2025-11-10,Indore,Home & Kitchen,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,3847.49,7694.98,1.0,3
+ORD1534,2025-11-10,Lucknow,Home & Kitchen,Mobile App,Wallet,QuickKart,Delivered,1,5148.75,5148.75,3.0,2
+ORD1025,2025-11-10,Jaipur,Fashion,Website,Debit Card,ParcelPro,Delivered,3,9023.79,27071.37,2.0,3
+ORD1940,2025-11-11,Jaipur,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,2,7304.87,14609.74,1.0,2
+ORD1735,2025-11-11,Surat,Fashion,Website,Credit Card,SwiftShip,Delivered,1,11199.76,11199.76,4.0,4
+ORD1191,2025-11-11,Bhopal,Beauty,Mobile App,Cash on Delivery,BlueRoute,Delivered,1,9617.74,9617.74,3.0,3
+ORD1380,2025-11-12,Nagpur,Home & Kitchen,Mobile App,Wallet,ParcelPro,Delivered,1,4280.21,4280.21,1.0,5
+ORD2141,2025-11-12,Nagpur,Electronics,Mobile App,Cash on Delivery,BlueRoute,Delivered,1,4432.69,4432.69,1.0,5
+ORD1050,2025-11-12,Jaipur,Beauty,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,9843.67,9843.67,5.0,5
+ORD2040,2025-11-12,Nagpur,Beauty,Marketplace,UPI,BlueRoute,Delivered,1,5674.98,5674.98,3.0,4
+ORD1695,2025-11-12,Patna,Fashion,Website,UPI,QuickKart,Delivered,2,12758.38,25516.76,3.0,3
+ORD1846,2025-11-13,Bhopal,Sports,Mobile App,Wallet,QuickKart,Delivered,1,9934.27,9934.27,3.0,5
+ORD1661,2025-11-13,Lucknow,Fashion,Marketplace,Credit Card,ParcelPro,Delivered,1,2075.67,2075.67,3.0,5
+ORD1323,2025-11-13,Nagpur,Sports,Marketplace,Cash on Delivery,ParcelPro,Delivered,2,9888.69,19777.38,3.0,5
+ORD1647,2025-11-13,Kanpur,Beauty,Marketplace,Cash on Delivery,QuickKart,Delivered,2,1362.68,2725.36,1.0,5
+ORD1441,2025-11-14,Indore,Books,Marketplace,Credit Card,SwiftShip,Delivered,3,1473.76,4421.28,2.0,3
+ORD1952,2025-11-14,Bhopal,Electronics,Mobile App,Credit Card,BlueRoute,Delivered,1,11203.46,11203.46,4.0,4
+ORD1197,2025-11-14,Indore,Fashion,Marketplace,Debit Card,QuickKart,Delivered,1,4732.44,4732.44,2.0,3
+ORD2023,2025-11-14,Patna,Home & Kitchen,Mobile App,Wallet,BlueRoute,Delivered,1,4836.87,4836.87,1.0,4
+ORD1184,2025-11-14,Surat,Home & Kitchen,Marketplace,UPI,SwiftShip,Delivered,1,7197.88,7197.88,4.0,2
+ORD1434,2025-11-15,Surat,Books,Marketplace,Wallet,SwiftShip,Delivered,1,2440.2,2440.2,1.0,3
+ORD1869,2025-11-15,Nagpur,Fashion,Marketplace,Cash on Delivery,ParcelPro,Delivered,2,4115.81,8231.62,2.0,3
+ORD2013,2025-11-15,Bhopal,Electronics,Mobile App,Debit Card,QuickKart,Delivered,3,7683.99,23051.97,3.0,3
+ORD2166,2025-11-15,Indore,Home & Kitchen,Mobile App,Debit Card,SwiftShip,Delivered,2,3799.44,7598.88,3.0,5
+ORD2033,2025-11-16,Lucknow,Electronics,Marketplace,Cash on Delivery,ParcelPro,Delayed,3,1297.85,3893.55,3.0,4
+ORD1041,2025-11-16,Kanpur,Beauty,Marketplace,Credit Card,ParcelPro,Delayed,2,13102.28,26204.56,2.0,3
+ORD2031,2025-11-16,Nagpur,Books,Mobile App,UPI,BlueRoute,Cancelled,2,8528.63,17057.26,,4
+ORD1995,2025-11-16,Bhopal,Sports,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,11191.28,22382.56,4.0,5
+ORD1938,2025-11-16,Bhopal,Books,Website,Credit Card,BlueRoute,Delivered,2,14680.89,29361.78,1.0,3
+ORD2012,2025-11-17,Surat,Books,Mobile App,Wallet,BlueRoute,Delivered,1,10408.35,10408.35,3.0,5
+ORD1620,2025-11-17,Bhopal,Books,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,2985.88,5971.76,1.0,5
+ORD1385,2025-11-17,Kanpur,Electronics,Marketplace,Debit Card,ParcelPro,Delivered,1,630.5,630.5,3.0,3
+ORD2090,2025-11-18,Jaipur,Fashion,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,1773.25,1773.25,3.0,4
+ORD1966,2025-11-18,Kanpur,Beauty,Website,UPI,QuickKart,Delivered,1,3626.43,3626.43,3.0,5
+ORD1391,2025-11-18,Bhopal,Books,Marketplace,UPI,SwiftShip,Delivered,1,6924.17,6924.17,2.0,3
+ORD1512,2025-11-19,Jaipur,Electronics,Website,Debit Card,QuickKart,Cancelled,1,8552.05,8552.05,,5
+ORD1358,2025-11-19,Bhopal,Home & Kitchen,Marketplace,Cash on Delivery,SwiftShip,Delivered,2,7744.84,15489.68,2.0,4
+ORD1351,2025-11-19,Nagpur,Electronics,Mobile App,Debit Card,SwiftShip,Delivered,3,9135.99,27407.97,5.0,3
+ORD2144,2025-11-20,Patna,Electronics,Website,Credit Card,QuickKart,Delivered,2,11273.5,22547.0,3.0,5
+ORD1222,2025-11-20,Surat,Sports,Marketplace,UPI,SwiftShip,Delivered,1,525.0,525.0,2.0,4
+ORD2110,2025-11-20,Indore,Fashion,Mobile App,Debit Card,QuickKart,Delivered,3,473.16,1419.48,2.0,4
+ORD1984,2025-11-20,Jaipur,Fashion,Website,UPI,BlueRoute,Delivered,1,7114.17,7114.17,1.0,3
+ORD1487,2025-11-21,Bhopal,Beauty,Website,Wallet,BlueRoute,Delivered,1,9517.5,9517.5,3.0,5
+ORD1496,2025-11-21,Jaipur,Beauty,Mobile App,Credit Card,BlueRoute,Delayed,1,13016.33,13016.33,2.0,4
+ORD1229,2025-11-21,Patna,Books,Marketplace,UPI,QuickKart,Delayed,1,1520.48,1520.48,3.0,2
+ORD1982,2025-11-22,Lucknow,Fashion,Website,Credit Card,SwiftShip,Delivered,1,6387.35,6387.35,3.0,2
+ORD1848,2025-11-22,Patna,Fashion,Website,UPI,SwiftShip,Delivered,2,12434.79,24869.58,2.0,2
+ORD1408,2025-11-22,Jaipur,Fashion,Marketplace,UPI,BlueRoute,Delivered,2,2198.19,4396.38,2.0,4
+ORD1238,2025-11-22,Patna,Home & Kitchen,Mobile App,UPI,BlueRoute,Delivered,1,14458.79,14458.79,1.0,5
+ORD1097,2025-11-23,Kanpur,Beauty,Mobile App,Cash on Delivery,SwiftShip,Delivered,3,1739.82,5219.46,3.0,4
+ORD1623,2025-11-23,Nagpur,Electronics,Marketplace,UPI,BlueRoute,Delivered,2,8627.56,17255.12,3.0,3
+ORD1154,2025-11-23,Lucknow,Fashion,Marketplace,UPI,SwiftShip,Delivered,2,3533.69,7067.38,1.0,3
+ORD2147,2025-11-24,Patna,Electronics,Website,Wallet,QuickKart,Delivered,1,2416.6,2416.6,4.0,5
+ORD2055,2025-11-24,Lucknow,Sports,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,12459.98,12459.98,1.0,3
+ORD1113,2025-11-24,Jaipur,Home & Kitchen,Marketplace,Debit Card,SwiftShip,Delivered,1,7371.1,7371.1,4.0,4
+ORD2035,2025-11-24,Bhopal,Electronics,Mobile App,UPI,QuickKart,Delivered,3,8492.21,25476.63,3.0,3
+ORD2015,2025-11-25,Jaipur,Fashion,Marketplace,Wallet,ParcelPro,Delivered,1,8489.54,8489.54,3.0,4
+ORD1046,2025-11-25,Jaipur,Electronics,Website,Cash on Delivery,ParcelPro,Delayed,2,6799.18,13598.36,4.0,4
+ORD2125,2025-11-26,Jaipur,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,3,4739.56,14218.68,2.0,4
+ORD2094,2025-11-26,Lucknow,Beauty,Website,Cash on Delivery,BlueRoute,Delivered,2,7146.64,14293.28,2.0,5
+ORD1811,2025-11-26,Indore,Fashion,Mobile App,Cash on Delivery,ParcelPro,Delivered,2,2312.8,4625.6,2.0,2
+ORD1515,2025-11-26,Nagpur,Fashion,Website,Cash on Delivery,QuickKart,Delivered,3,4609.06,13827.18,3.0,3
+ORD1683,2025-11-26,Indore,Fashion,Website,Wallet,BlueRoute,Delayed,1,12085.92,12085.92,2.0,4
+ORD1951,2025-11-27,Indore,Home & Kitchen,Website,Debit Card,QuickKart,Delivered,1,5553.2,5553.2,4.0,2
+ORD1598,2025-11-27,Indore,Fashion,Website,Debit Card,QuickKart,Delayed,2,13045.39,26090.78,2.0,2
+ORD1011,2025-11-27,Bhopal,Books,Mobile App,Debit Card,SwiftShip,Delivered,1,8572.49,8572.49,3.0,5
+ORD1170,2025-11-27,Indore,Sports,Mobile App,Credit Card,SwiftShip,Delivered,1,9584.3,9584.3,4.0,5
+ORD2111,2025-11-28,Lucknow,Home & Kitchen,Website,Wallet,ParcelPro,Delivered,1,2154.99,2154.99,5.0,5
+ORD2000,2025-11-29,Surat,Electronics,Mobile App,Wallet,ParcelPro,Delivered,1,6380.06,6380.06,2.0,4
+ORD2025,2025-11-30,Jaipur,Electronics,Mobile App,Cash on Delivery,BlueRoute,Delivered,2,13150.79,26301.58,3.0,5
+ORD1970,2025-12-01,Nagpur,Electronics,Website,Debit Card,SwiftShip,Cancelled,1,4098.91,4098.91,,4
+ORD1976,2025-12-01,Bhopal,Beauty,Marketplace,Wallet,ParcelPro,Delayed,2,10319.88,20639.76,4.0,5
+ORD1796,2025-12-01,Bhopal,Sports,Marketplace,Wallet,QuickKart,Delivered,1,358.82,358.82,2.0,2
+ORD1801,2025-12-01,Kanpur,Home & Kitchen,Marketplace,Debit Card,SwiftShip,Delivered,1,8797.34,8797.34,2.0,5
+ORD1500,2025-12-02,Lucknow,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,5575.44,5575.44,2.0,2
+ORD1827,2025-12-02,Patna,Home & Kitchen,Website,Debit Card,QuickKart,Delivered,1,4614.4,4614.4,2.0,3
+ORD1526,2025-12-03,Nagpur,Fashion,Marketplace,Debit Card,QuickKart,Delivered,3,2246.85,6740.55,3.0,3
+ORD1872,2025-12-03,Lucknow,Fashion,Mobile App,Debit Card,QuickKart,Delivered,3,8591.09,25773.27,3.0,3
+ORD1794,2025-12-04,Kanpur,Beauty,Mobile App,Cash on Delivery,ParcelPro,Delayed,2,3179.71,6359.42,2.0,5
+ORD1251,2025-12-04,Kanpur,Home & Kitchen,Mobile App,UPI,SwiftShip,Delivered,1,14720.43,14720.43,3.0,4
+ORD1292,2025-12-04,Kanpur,Sports,Mobile App,Debit Card,ParcelPro,Delivered,1,3372.22,3372.22,3.0,2
+ORD1085,2025-12-04,Patna,Home & Kitchen,Marketplace,Debit Card,QuickKart,Delivered,3,13729.7,41189.1,3.0,4
+ORD1577,2025-12-05,Indore,Home & Kitchen,Marketplace,Cash on Delivery,ParcelPro,Delivered,2,3725.69,7451.38,3.0,4
+ORD2046,2025-12-05,Nagpur,Fashion,Mobile App,Wallet,SwiftShip,Delivered,1,13226.67,13226.67,4.0,5
+ORD1617,2025-12-05,Kanpur,Fashion,Website,Debit Card,ParcelPro,Delivered,1,5390.51,5390.51,3.0,5
+ORD1504,2025-12-06,Jaipur,Home & Kitchen,Website,UPI,ParcelPro,Delivered,1,12578.03,12578.03,2.0,5
+ORD1813,2025-12-06,Nagpur,Sports,Marketplace,Credit Card,SwiftShip,Delivered,1,4125.22,4125.22,2.0,3
+ORD1056,2025-12-06,Lucknow,Electronics,Mobile App,Cash on Delivery,BlueRoute,Delivered,3,2307.93,6923.79,3.0,5
+ORD1285,2025-12-06,Indore,Home & Kitchen,Marketplace,Credit Card,QuickKart,Delivered,3,1210.34,3631.02,5.0,4
+ORD1168,2025-12-06,Surat,Fashion,Mobile App,UPI,SwiftShip,Delivered,2,7975.44,15950.88,1.0,5
+ORD1476,2025-12-07,Surat,Electronics,Website,Debit Card,QuickKart,Delivered,1,6525.5,6525.5,2.0,3
+ORD1730,2025-12-07,Lucknow,Fashion,Mobile App,Debit Card,SwiftShip,Delivered,1,5882.48,5882.48,2.0,4
+ORD1784,2025-12-07,Kanpur,Electronics,Website,Cash on Delivery,ParcelPro,Delivered,1,13556.62,13556.62,4.0,4
+ORD1565,2025-12-08,Nagpur,Electronics,Website,Wallet,BlueRoute,Delivered,1,10702.14,10702.14,3.0,4
+ORD1364,2025-12-08,Bhopal,Sports,Mobile App,UPI,SwiftShip,Delivered,1,4366.92,4366.92,4.0,3
+ORD1621,2025-12-08,Lucknow,Electronics,Website,Credit Card,QuickKart,Delivered,1,11973.56,11973.56,1.0,2
+ORD1734,2025-12-08,Surat,Fashion,Mobile App,Cash on Delivery,QuickKart,Delivered,3,11735.35,35206.05,4.0,2
+ORD1404,2025-12-08,Nagpur,Electronics,Website,Cash on Delivery,BlueRoute,Delivered,3,8119.25,24357.75,1.0,3
+ORD1394,2025-12-08,Indore,Electronics,Website,Wallet,ParcelPro,Delivered,1,1335.75,1335.75,4.0,4
+ORD1211,2025-12-09,Jaipur,Books,Marketplace,UPI,BlueRoute,Returned,2,11367.39,22734.78,1.0,5
+ORD1099,2025-12-10,Bhopal,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,2,1233.99,2467.98,1.0,5
+ORD2194,2025-12-10,Indore,Beauty,Marketplace,Cash on Delivery,ParcelPro,Delivered,2,5438.49,10876.98,2.0,2
+ORD1020,2025-12-10,Indore,Home & Kitchen,Website,Cash on Delivery,BlueRoute,Delivered,1,3845.75,3845.75,6.0,4
+ORD1096,2025-12-11,Indore,Books,Marketplace,UPI,SwiftShip,Delivered,1,6182.92,6182.92,4.0,3
+ORD1029,2025-12-11,Patna,Home & Kitchen,Mobile App,UPI,SwiftShip,Delayed,1,11569.45,11569.45,1.0,2
+ORD1243,2025-12-12,Jaipur,Home & Kitchen,Mobile App,UPI,ParcelPro,Delivered,1,3738.55,3738.55,5.0,4
+ORD1261,2025-12-12,Indore,Fashion,Marketplace,Credit Card,BlueRoute,Delivered,2,6564.52,13129.04,4.0,4
+ORD1853,2025-12-12,Patna,Beauty,Marketplace,Wallet,SwiftShip,Delivered,2,8794.79,17589.58,3.0,5
+ORD2161,2025-12-12,Jaipur,Electronics,Website,UPI,SwiftShip,Delivered,1,4329.46,4329.46,1.0,5
+ORD2132,2025-12-12,Surat,Books,Website,Credit Card,QuickKart,Delivered,2,7101.63,14203.26,3.0,2
+ORD1438,2025-12-12,Surat,Home & Kitchen,Marketplace,Credit Card,BlueRoute,Delivered,1,12459.89,12459.89,3.0,3
+ORD1136,2025-12-12,Lucknow,Beauty,Website,Wallet,BlueRoute,Delivered,3,9315.58,27946.74,4.0,4
+ORD1054,2025-12-12,Patna,Fashion,Mobile App,Credit Card,BlueRoute,Delivered,2,2412.79,4825.58,3.0,2
+ORD1636,2025-12-12,Bhopal,Home & Kitchen,Marketplace,Wallet,BlueRoute,Delivered,3,4300.74,12902.22,4.0,3
+ORD1797,2025-12-13,Bhopal,Electronics,Mobile App,Credit Card,SwiftShip,Delivered,1,6267.35,6267.35,2.0,2
+ORD2183,2025-12-13,Indore,Electronics,Website,Wallet,QuickKart,Delivered,2,14436.27,28872.54,4.0,4
+ORD1650,2025-12-14,Nagpur,Electronics,Website,UPI,ParcelPro,Delivered,1,13504.55,13504.55,3.0,3
+ORD1172,2025-12-14,Lucknow,Beauty,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,690.2,1380.4,2.0,2
+ORD1690,2025-12-14,Indore,Books,Website,Credit Card,BlueRoute,Delivered,2,9644.72,19289.44,3.0,3
+ORD1763,2025-12-14,Surat,Home & Kitchen,Marketplace,UPI,BlueRoute,Delivered,1,4785.01,4785.01,1.0,5
+ORD1340,2025-12-15,Bhopal,Electronics,Mobile App,Wallet,SwiftShip,Delivered,2,14634.08,29268.16,3.0,2
+ORD2034,2025-12-15,Bhopal,Home & Kitchen,Mobile App,Wallet,QuickKart,Delivered,1,5851.98,5851.98,2.0,5
+ORD1291,2025-12-15,Bhopal,Sports,Website,UPI,QuickKart,Delivered,1,6687.1,6687.1,5.0,3
+ORD1002,2025-12-15,Patna,Fashion,Mobile App,Wallet,BlueRoute,Delivered,1,3305.6,3305.6,1.0,4
+ORD1461,2025-12-15,Kanpur,Fashion,Marketplace,Debit Card,ParcelPro,Delivered,1,3141.45,3141.45,1.0,5
+ORD1239,2025-12-15,Bhopal,Fashion,Website,UPI,ParcelPro,Delivered,1,7914.18,7914.18,2.0,3
+ORD1421,2025-12-16,Lucknow,Fashion,Marketplace,Cash on Delivery,BlueRoute,Delivered,1,12478.9,12478.9,3.0,3
+ORD1950,2025-12-16,Jaipur,Sports,Website,Wallet,ParcelPro,Delivered,2,12532.99,25065.98,3.0,4
+ORD1953,2025-12-16,Indore,Electronics,Mobile App,Cash on Delivery,SwiftShip,Delivered,1,7819.93,7819.93,3.0,5
+ORD1867,2025-12-16,Bhopal,Electronics,Mobile App,UPI,QuickKart,Delivered,1,1585.13,1585.13,4.0,2
+ORD1075,2025-12-17,Lucknow,Electronics,Mobile App,Credit Card,ParcelPro,Delivered,3,10384.48,31153.44,2.0,4
+ORD1744,2025-12-17,Nagpur,Fashion,Marketplace,Cash on Delivery,ParcelPro,Delivered,1,4705.94,4705.94,1.0,5
+ORD1140,2025-12-18,Indore,Home & Kitchen,Mobile App,Credit Card,QuickKart,Delivered,1,8508.97,8508.97,2.0,5
+ORD1246,2025-12-18,Kanpur,Home & Kitchen,Website,Debit Card,SwiftShip,Delivered,1,10412.43,10412.43,4.0,3
+ORD1834,2025-12-18,Indore,Fashion,Mobile App,Credit Card,ParcelPro,Delivered,1,11065.57,11065.57,3.0,3
+ORD2095,2025-12-19,Bhopal,Fashion,Mobile App,Wallet,QuickKart,Cancelled,1,4411.23,4411.23,,5
+ORD2062,2025-12-19,Surat,Electronics,Mobile App,Cash on Delivery,SwiftShip,Delivered,2,5481.67,10963.34,1.0,4
+ORD1390,2025-12-20,Lucknow,Electronics,Mobile App,Debit Card,SwiftShip,Delivered,2,3660.67,7321.34,4.0,4
+ORD1423,2025-12-21,Nagpur,Beauty,Website,Cash on Delivery,QuickKart,Delivered,1,9558.46,9558.46,3.0,5
+ORD1878,2025-12-21,Kanpur,Electronics,Website,Credit Card,SwiftShip,Delivered,3,10688.73,32066.19,5.0,2
+ORD1377,2025-12-21,Jaipur,Sports,Website,Wallet,SwiftShip,Delivered,1,6581.26,6581.26,2.0,5
+ORD1558,2025-12-21,Surat,Home & Kitchen,Marketplace,Credit Card,QuickKart,Delivered,2,10575.24,21150.48,2.0,2
+ORD1999,2025-12-22,Nagpur,Beauty,Marketplace,Credit Card,QuickKart,Delivered,1,9222.68,9222.68,2.0,3
+ORD2143,2025-12-22,Surat,Home & Kitchen,Marketplace,Wallet,QuickKart,Delayed,1,10165.19,10165.19,3.0,4
+ORD1482,2025-12-23,Bhopal,Sports,Website,Wallet,SwiftShip,Delivered,3,12904.9,38714.7,3.0,2
+ORD1699,2025-12-23,Bhopal,Electronics,Marketplace,Wallet,ParcelPro,Delayed,2,3861.45,7722.9,4.0,4
+ORD1541,2025-12-23,Indore,Home & Kitchen,Website,Credit Card,QuickKart,Delivered,3,9875.04,29625.12,4.0,3
+ORD1746,2025-12-24,Patna,Home & Kitchen,Mobile App,Debit Card,SwiftShip,Delivered,2,2129.68,4259.36,2.0,4
+ORD1686,2025-12-24,Patna,Sports,Marketplace,Credit Card,SwiftShip,Delivered,1,5981.26,5981.26,4.0,4
+ORD1132,2025-12-25,Patna,Electronics,Website,Credit Card,SwiftShip,Delivered,1,4185.1,4185.1,4.0,5
+ORD1181,2025-12-25,Bhopal,Electronics,Website,Wallet,QuickKart,Delivered,2,1900.01,3800.02,4.0,5
+ORD1122,2025-12-26,Lucknow,Electronics,Marketplace,Credit Card,SwiftShip,Delivered,1,3944.26,3944.26,2.0,5
+ORD1252,2025-12-26,Nagpur,Books,Mobile App,Cash on Delivery,BlueRoute,Cancelled,1,11407.19,11407.19,,2
+ORD1014,2025-12-26,Jaipur,Home & Kitchen,Website,Credit Card,ParcelPro,Delivered,1,7561.48,7561.48,3.0,5
+ORD2126,2025-12-26,Indore,Books,Website,UPI,SwiftShip,Delivered,1,1233.4,1233.4,2.0,2
+ORD1359,2025-12-26,Lucknow,Fashion,Marketplace,Cash on Delivery,SwiftShip,Delivered,3,14945.69,44837.07,4.0,5
+ORD1830,2025-12-26,Patna,Beauty,Website,Credit Card,SwiftShip,Delivered,1,471.04,471.04,2.0,4
+ORD1063,2025-12-26,Nagpur,Beauty,Mobile App,Debit Card,ParcelPro,Delivered,1,2591.75,2591.75,3.0,4
+ORD1648,2025-12-27,Jaipur,Books,Marketplace,Credit Card,QuickKart,Delivered,1,9600.92,9600.92,2.0,4
+ORD2037,2025-12-27,Surat,Beauty,Marketplace,UPI,BlueRoute,Delivered,3,6597.87,19793.61,2.0,3
+ORD1559,2025-12-27,Patna,Books,Website,Wallet,QuickKart,Delivered,1,7813.45,7813.45,3.0,3
+ORD1899,2025-12-29,Lucknow,Home & Kitchen,Marketplace,Credit Card,QuickKart,Delivered,1,13583.84,13583.84,3.0,3
+ORD2134,2025-12-29,Kanpur,Sports,Marketplace,Wallet,QuickKart,Delivered,1,7624.35,7624.35,1.0,3
+ORD2186,2025-12-30,Bhopal,Electronics,Marketplace,Debit Card,ParcelPro,Delivered,2,5091.89,10183.78,2.0,4
+ORD1631,2025-12-30,Bhopal,Electronics,Mobile App,Cash on Delivery,ParcelPro,Delivered,1,5798.07,5798.07,2.0,3
+ORD1038,2025-12-30,Bhopal,Electronics,Mobile App,Wallet,QuickKart,Delivered,1,1109.45,1109.45,3.0,2
+ORD2101,2025-12-31,Surat,Home & Kitchen,Mobile App,UPI,ParcelPro,Delivered,1,9387.32,9387.32,3.0,4
+ORD1619,2025-12-31,Lucknow,Fashion,Mobile App,Wallet,QuickKart,Delayed,2,14219.04,28438.08,3.0,5
+ORD1941,2025-12-31,Kanpur,Electronics,Website,Wallet,SwiftShip,Delivered,2,7904.7,15809.4,3.0,4
+ORD1420,2025-12-31,Surat,Home & Kitchen,Marketplace,UPI,QuickKart,Delivered,3,10059.76,30179.28,3.0,2
+ORD1890,2025-12-31,Indore,Sports,Website,Credit Card,BlueRoute,Delivered,1,9239.73,9239.73,1.0,4
+ORD1313,2025-12-31,Patna,Books,Website,UPI,QuickKart,Delivered,3,7292.05,21876.15,3.0,4
+ORD1720,2025-12-31,Patna,Home & Kitchen,Mobile App,Cash on Delivery,ParcelPro,Delivered,1,3298.38,3298.38,3.0,2
